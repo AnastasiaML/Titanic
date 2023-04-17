@@ -1,0 +1,1310 @@
+Survived,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Cabin,Embarked,Family
+Died,Class3,"Braund, Mr. Owen Harris",male,22.0,1,0,-0.89765485839414,n,S,1
+Survived,Class1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,1.3437829824661556,C,C,1
+Survived,Class3,"Heikkinen, Miss. Laina",female,26.0,0,0,-0.8164369666035423,n,S,0
+Survived,Class1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,1.0445373827684135,C,S,1
+Died,Class3,"Allen, Mr. William Henry",male,35.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Moran, Mr. James",male,29.881137667304014,0,0,-0.756500530254731,n,Q,0
+Died,Class1,"McCarthy, Mr. Timothy J",male,54.0,0,0,1.0206398000581522,E,S,0
+Died,Class3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,0.11880131717345953,n,S,4
+Survived,Class3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,-0.49928523128640534,n,S,2
+Survived,Class2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,0.47181526802174784,n,C,1
+Survived,Class3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,-0.10931140482994556,G,S,2
+Survived,Class1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,0.347611843111758,C,S,0
+Died,Class3,"Saundercock, Mr. William Henry",male,20.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Andersson, Mr. Anders Johan",male,39.0,1,5,0.5110846487977208,n,S,6
+Died,Class3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,-0.8246621250056464,n,S,0
+Survived,Class2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,-0.15098379585968283,n,S,0
+Died,Class3,"Rice, Master. Eugene",male,2.0,4,1,0.43989009875069424,n,Q,5
+Survived,Class2,"Williams, Mr. Charles Eugene",male,29.881137667304014,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,-0.03611664974445992,n,S,1
+Survived,Class3,"Masselmani, Mrs. Fatima",female,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Died,Class2,"Fynney, Mr. Joseph J",male,35.0,0,0,0.32678595244781106,n,S,0
+Survived,Class2,"Beesley, Mr. Lawrence",male,34.0,0,0,-0.35149644978013467,D,S,0
+Survived,Class3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,-0.8044494983821748,n,Q,0
+Survived,Class1,"Sloper, Mr. William Thompson",male,28.0,0,0,0.6381316073008532,A,S,0
+Died,Class3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,0.11880131717345953,n,S,4
+Survived,Class3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,0.514678179847421,n,S,6
+Died,Class3,"Emir, Mr. Farred Chehab",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Died,Class1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,2.6815487303213184,C,S,5
+Survived,Class3,"O'Dwyer, Miss. Ellen ""Nellie""",female,29.881137667304014,0,0,-0.8217502735340512,n,Q,0
+Died,Class3,"Todoroff, Mr. Lalio",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,0.3905935084971427,n,C,0
+Survived,Class1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,29.881137667304014,1,0,2.0805148725979374,B,C,1
+Survived,Class3,"Glynn, Miss. Mary Agatha",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class2,"Wheadon, Mr. Edward H",male,66.0,0,0,-0.5546470102524386,n,S,0
+Died,Class1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,1.4886796930479902,n,C,1
+Died,Class1,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,1.0233225594813138,n,S,1
+Survived,Class3,"Mamee, Mr. Hanna",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Cann, Mr. Ernest Charles",male,21.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,-0.03611664974445992,n,S,2
+Survived,Class3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,-0.49009961174553945,n,C,1
+Died,Class3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,-0.6510590274893523,n,S,1
+Died,Class2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,0.1152866007230175,n,S,1
+Died,Class3,"Kraeff, Mr. Theodor",male,29.881137667304014,0,0,-0.8198213298993995,n,C,0
+Survived,Class2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,0.7972289104862824,n,C,3
+Survived,Class3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,-0.8217502735340512,n,Q,0
+Died,Class3,"Rogers, Mr. William John",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Lennon, Mr. Denis",male,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+Survived,Class3,"O'Driscoll, Miss. Bridget",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Samaan, Mr. Youssef",male,29.881137667304014,2,0,0.14668783208519015,n,C,2
+Died,Class3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,-0.047045215784774344,n,S,1
+Died,Class3,"Panula, Master. Juha Niilo",male,7.0,4,1,0.7502960982840425,n,S,5
+Died,Class3,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,-0.8310033555259098,n,S,0
+Survived,Class1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,1.4187990064027005,D,C,1
+Survived,Class2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,0.32678595244781106,n,S,1
+Died,Class1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,1.2014831963231893,B,C,1
+Survived,Class1,"Woolner, Mr. Hugh",male,29.881137667304014,0,0,0.6381316073008532,C,S,0
+Survived,Class2,"Rugg, Miss. Emily",female,21.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Novel, Mr. Mansouer",male,28.5,0,0,-0.9002619024692602,n,C,0
+Survived,Class2,"West, Miss. Constance Mirium",female,5.0,1,2,0.3916429459964887,n,S,3
+Died,Class3,"Goodwin, Master. William Frederick",male,11.0,5,2,0.9188336495278178,n,S,7
+Died,Class3,"Sirayanian, Mr. Orsen",male,22.0,0,0,-0.9002619024692602,n,C,0
+Survived,Class1,"Icard, Miss. Amelie",female,38.0,0,0,1.4613666465599293,B,,0
+Died,Class1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,1.5047484104235382,C,S,1
+Died,Class3,"Skoog, Master. Harald",male,4.0,3,2,0.39701714643406616,n,S,5
+Died,Class1,"Stewart, Mr. Albert A",male,29.881137667304014,0,0,0.3905935084971427,n,C,0
+Survived,Class3,"Moubarek, Master. Gerios",male,29.881137667304014,1,1,-0.19784842561560204,n,C,2
+Survived,Class2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,-0.5546470102524386,F,S,0
+Died,Class3,"Crease, Mr. Ernest James",male,19.0,0,0,-0.7897878951480188,n,S,0
+Survived,Class3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,-0.8164369666035423,n,S,6
+Died,Class3,"Kink, Mr. Vincenz",male,26.0,2,0,-0.7344414641191619,n,S,2
+Died,Class2,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,0.9188336495278178,n,S,7
+Died,Class2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,1.3749779275643326,n,S,0
+Died,Class3,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,-0.24943750202424797,n,C,1
+Survived,Class3,"Bing, Mr. Lee",male,32.0,0,0,1.1074082260733904,n,S,0
+Died,Class3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,-0.8487586327422224,F,S,0
+Died,Class3,"Staneff, Mr. Ivan",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Moutal, Mr. Rahamin Haim",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class2,"Caldwell, Master. Alden Gates",male,0.83,0,2,0.43559595595868594,n,S,2
+Survived,Class3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,-0.3909690195107353,n,S,0
+Died,Class3,"Waelens, Mr. Achille",male,22.0,0,0,-0.6989847381534318,n,S,0
+Survived,Class3,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,-0.6485971911542,n,S,0
+Survived,Class3,"McDermott, Miss. Brigdet Delia",female,29.881137667304014,0,0,-0.8324713584078532,n,Q,0
+Died,Class1,"Carrau, Mr. Francisco M",male,28.0,0,0,0.9231367384765021,n,S,0
+Survived,Class2,"Ilett, Miss. Bertha",female,17.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,-0.16013664620044818,n,S,3
+Died,Class3,"Ford, Mr. William Neal",male,16.0,1,3,0.6057997192031446,n,S,4
+Died,Class3,"Slocovski, Mr. Selman Francis",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,2.6815487303213184,C,S,5
+Died,Class3,"Celotti, Mr. Francesco",male,24.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Christmann, Mr. Emil",male,29.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,-0.8246621250056464,n,S,0
+Died,Class1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,1.1882109158697278,E,S,1
+Died,Class3,"Dean, Mr. Bertram Frank",male,26.0,1,2,0.0951407209263697,n,S,3
+Died,Class3,"Coxon, Mr. Daniel",male,59.0,0,0,-0.89765485839414,n,S,0
+Died,Class3,"Shorney, Mr. Charles Joseph",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Goldschmidt, Mr. George B",male,71.0,0,0,0.6139187027248391,A,C,0
+Survived,Class1,"Greenfield, Mr. William Bertram",male,23.0,0,1,1.223853781920326,D,C,1
+Survived,Class2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,0.2051467174528504,n,S,1
+Died,Class2,"Kantor, Mr. Sinai",male,34.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Petranec, Miss. Matilda",female,28.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Petroff, Mr. Pastcho (""Pentcho"")",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class1,"White, Mr. Richard Frasar",male,21.0,0,1,1.4261902808158198,D,S,1
+Died,Class3,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,-0.7353289595311131,n,S,0
+Died,Class3,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,-0.8164369666035423,n,S,2
+Died,Class3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,-0.8487586327422224,n,S,0
+Survived,Class3,"Moss, Mr. Albert Johan",male,29.881137667304014,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Rekic, Mr. Tido",male,38.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class3,"Moran, Miss. Bertha",female,29.881137667304014,1,0,0.25348314192371696,n,Q,1
+Died,Class1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,1.0233225594813138,C,S,0
+Died,Class3,"Zabour, Miss. Hileni",female,14.5,1,0,-0.24943750202424797,n,C,1
+Died,Class3,"Barton, Mr. David John",male,22.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Jussila, Miss. Katriina",female,20.0,1,0,-0.6171161649256502,n,S,1
+Died,Class3,"Attalah, Miss. Malake",female,17.0,0,0,-0.24916355242946245,n,C,0
+Died,Class3,"Pekoniemi, Mr. Edvard",male,21.0,0,0,-0.8164369666035423,n,S,0
+Died,Class3,"Connors, Mr. Patrick",male,70.5,0,0,-0.8368879290173904,n,Q,0
+Died,Class2,"Turpin, Mr. William John Robert",male,29.0,1,0,0.1152866007230175,n,S,1
+Died,Class1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,2.6191479456923923,B,C,1
+Died,Class3,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,0.5110846487977208,n,S,6
+Died,Class2,"Hickman, Mr. Stanley George",male,21.0,2,0,1.3749779275643326,n,S,2
+Died,Class3,"Moore, Mr. Leonard Charles",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class2,"Nasser, Mr. Nicholas",male,32.5,1,0,0.47181526802174784,n,C,1
+Survived,Class2,"Webber, Miss. Susan",female,32.5,0,0,-0.35149644978013467,E,S,0
+Died,Class1,"White, Mr. Percival Wayland",male,54.0,0,1,1.4261902808158198,D,S,1
+Survived,Class3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,-0.49009961174553945,n,C,1
+Died,Class3,"McMahon, Mr. Martin",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,-0.9113016861948348,n,S,0
+Survived,Class3,"Peter, Miss. Anna",female,29.881137667304014,1,1,0.17715797097251948,F,C,2
+Died,Class3,"Ekstrom, Mr. Johan",male,45.0,0,0,-0.9326663419069485,n,S,0
+Died,Class3,"Drazenoic, Mr. Jozef",male,33.0,0,0,-0.8198213298993995,n,C,0
+Died,Class3,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,-0.9229994396222323,n,S,0
+Died,Class3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,-0.24638140496411706,n,S,1
+Survived,Class2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,0.32678595244781106,n,S,1
+Died,Class2,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Richard, Mr. Emile",male,23.0,0,0,-0.2106412641151178,n,C,0
+Survived,Class1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,0.3375656160590555,D,S,2
+Died,Class1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,1.0445373827684135,C,S,1
+Died,Class3,"Osen, Mr. Olaf Elon",male,16.0,0,0,-0.6768443000260063,n,S,0
+Died,Class1,"Giglio, Mr. Victor",male,24.0,0,0,1.4511160427664747,B,C,0
+Died,Class3,"Boulos, Mrs. Joseph (Sultana)",female,29.881137667304014,0,2,-0.19784842561560204,n,C,2
+Survived,Class3,"Nysten, Miss. Anna Sofia",female,22.0,0,0,-0.8368879290173904,n,S,0
+Survived,Class3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,-0.16013664620044818,n,S,1
+Died,Class3,"Burke, Mr. Jeremiah",male,19.0,0,0,-0.9622221227072089,n,Q,0
+Died,Class2,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,-0.4685354996475963,n,S,0
+Died,Class2,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,0.6729072785387347,n,S,2
+Survived,Class3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,-0.8314963717533397,n,S,0
+Died,Class3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,0.6057997192031446,n,S,4
+Died,Class2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,0.32678595244781106,F,S,2
+Died,Class2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Bateman, Rev. Robert James",male,51.0,0,0,-0.3871440527177695,n,S,0
+Survived,Class1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,1.2746047614608564,C,S,1
+Died,Class3,"Meo, Mr. Alfonzo",male,55.5,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,-0.24638140496411706,n,S,2
+Died,Class3,"Olsen, Mr. Ole Martin",male,29.881137667304014,0,0,-0.8898605583515098,n,S,0
+Died,Class1,"Williams, Mr. Charles Duane",male,51.0,0,1,1.1915971632549536,n,C,1
+Survived,Class3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,-0.8388608701440298,n,Q,0
+Died,Class3,"Corn, Mr. Harry",male,30.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Smiljanic, Mr. Mile",male,29.881137667304014,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Sage, Master. Thomas Henry",male,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class3,"Cribb, Mr. John Hatfield",male,44.0,0,1,-0.1449266532553343,n,S,1
+Survived,Class2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,-0.16628392538382433,n,S,0
+Died,Class3,"Bengtsson, Mr. John Viktor",male,26.0,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Calic, Mr. Jovo",male,17.0,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Panula, Master. Eino Viljami",male,1.0,4,1,0.7502960982840425,n,S,5
+Survived,Class3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,0.09274457169934618,n,S,2
+Survived,Class1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,29.881137667304014,0,1,1.0801849857060493,E,S,1
+Died,Class3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,0.39701714643406616,n,S,5
+Died,Class1,"Baumann, Mr. John D",male,29.881137667304014,0,0,0.32391323890272194,n,S,0
+Died,Class3,"Ling, Mr. Lee",male,28.0,0,0,1.1074082260733904,n,S,0
+Died,Class1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,0.5799336838596796,B,S,0
+Died,Class3,"Rice, Master. Arthur",male,4.0,4,1,0.43989009875069424,n,Q,5
+Survived,Class3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,-0.49928523128640534,n,S,2
+Died,Class3,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,-0.8164369666035423,n,S,0
+Died,Class1,"Smith, Mr. James Clinch",male,56.0,0,0,0.49238301401308104,A,C,0
+Died,Class3,"Klasen, Mr. Klas Albin",male,18.0,1,1,-0.8246621250056464,n,S,2
+Died,Class3,"Lefebre, Master. Henry Forbes",male,29.881137667304014,3,1,0.30618328088189595,n,S,4
+Died,Class1,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,0.425651136959579,C,C,0
+Died,Class2,"Hale, Mr. Reginald",male,30.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Leonard, Mr. Lionel",male,36.0,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Sage, Miss. Constance Gladys",female,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class2,"Pernot, Mr. Rene",male,29.881137667304014,0,0,-0.21037097906787272,n,C,0
+Died,Class3,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,0.514678179847421,n,S,6
+Survived,Class2,"Becker, Master. Richard F",male,1.0,2,1,0.7326966973327512,F,S,3
+Survived,Class3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,0.16231564117356856,n,S,2
+Died,Class1,"Rood, Mr. Hugh Roscoe",male,29.881137667304014,0,0,0.9835968982524349,A,S,0
+Survived,Class3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+Survived,Class1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,0.347611843111758,n,S,0
+Died,Class3,"Bourke, Mr. John",male,40.0,1,1,-0.18181414065104826,n,Q,2
+Died,Class3,"Turcin, Mr. Stjepan",male,36.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class2,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Carbines, Mr. William",male,19.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,-0.8246621250056464,n,S,1
+Survived,Class2,"Navratil, Master. Michel M",male,3.0,1,1,0.32678595244781106,F,S,2
+Survived,Class1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,0.3905935084971427,B,C,0
+Survived,Class1,"Lurette, Miss. Elise",female,58.0,0,0,2.0805148725979374,B,C,0
+Died,Class3,"Mernagh, Mr. Robert",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,-0.7624245996283057,n,S,1
+Survived,Class3,"Madigan, Miss. Margaret ""Maggie""",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,-0.6485971911542,n,S,0
+Died,Class3,"Sage, Mr. Frederick",male,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class3,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,-0.9966639758395776,n,S,0
+Died,Class3,"Youseff, Mr. Gerious",male,45.5,0,0,-0.9007891243918247,n,C,0
+Survived,Class3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Strom, Miss. Telma Matilda",female,2.0,0,1,-0.558020142876273,G,S,1
+Died,Class3,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,-0.16013664620044818,n,S,1
+Survived,Class3,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,0.005824409092233192,n,C,0
+Survived,Class3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Blank, Mr. Henry",male,40.0,0,0,0.5022474588269157,A,C,0
+Died,Class3,"Ali, Mr. Ahmed",male,24.0,0,0,-0.9229994396222323,n,S,0
+Survived,Class2,"Cameron, Miss. Clear Annie",female,35.0,0,0,0.1152866007230175,n,S,0
+Died,Class3,"Perkin, Mr. John Henry",male,22.0,0,0,-0.89765485839414,n,S,0
+Died,Class2,"Givard, Mr. Hans Kristensen",male,30.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Kiernan, Mr. Philip",male,29.881137667304014,1,0,-0.8368879290173904,n,Q,1
+Survived,Class1,"Newell, Miss. Madeleine",female,31.0,1,0,1.8167930205456748,D,C,1
+Survived,Class3,"Honkanen, Miss. Eliina",female,27.0,0,0,-0.8164369666035423,n,S,0
+Died,Class2,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,0.36434426796295705,n,S,1
+Survived,Class1,"Bazzani, Miss. Albina",female,32.0,0,0,1.4129697938836199,D,C,0
+Died,Class2,"Harris, Mr. Walter",male,30.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class3,"Sunderland, Mr. Victor Francis",male,16.0,0,0,-0.8020731765945291,n,S,0
+Died,Class2,"Bracken, Mr. James H",male,27.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Green, Mr. George Henry",male,51.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Nenkoff, Mr. Christo",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,1.5815882562759367,C,S,1
+Died,Class3,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,-0.6634570137633135,n,S,0
+Survived,Class2,"Mellors, Mr. William John",male,19.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,-0.89765485839414,n,S,0
+Died,Class2,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Lefebre, Miss. Mathilde",female,29.881137667304014,3,1,0.30618328088189595,n,S,4
+Survived,Class1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,1.5047484104235382,C,S,1
+Died,Class3,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,-0.8339414509743195,n,S,0
+Died,Class2,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,-0.31525624529721435,n,S,0
+Survived,Class3,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,0.514678179847421,n,S,6
+Died,Class2,"Leyson, Mr. Robert William Norman",male,24.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Harknett, Miss. Alice Phoebe",female,29.881137667304014,0,0,-0.860767370998426,n,S,0
+Died,Class2,"Hold, Mr. Stephen",male,44.0,1,0,0.32678595244781106,n,S,1
+Survived,Class2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,0.33630435949113124,n,S,2
+Died,Class2,"Pengelly, Mr. Frederick William",male,19.0,0,0,-0.5546470102524386,n,S,0
+Died,Class2,"Hunt, Mr. George Henry",male,33.0,0,0,-0.40641214620401084,n,S,0
+Died,Class3,"Zabour, Miss. Thamine",female,29.881137667304014,1,0,-0.24943750202424797,n,C,1
+Survived,Class3,"Murphy, Miss. Katherine ""Kate""",female,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+Died,Class2,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,-0.9134221853266355,n,S,0
+Died,Class3,"Attalah, Mr. Sleiman",male,30.0,0,0,-0.9007891243918247,n,C,0
+Died,Class1,"Minahan, Dr. William Edward",male,44.0,2,0,1.5815882562759367,C,Q,2
+Died,Class3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,-0.8339414509743195,n,S,0
+Survived,Class2,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,-0.24638140496411706,n,S,2
+Survived,Class1,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,1.0340654412795942,D,S,2
+Died,Class2,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Reed, Mr. James George",male,29.881137667304014,0,0,-0.89765485839414,n,S,0
+Died,Class3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,-0.558020142876273,G,S,2
+Died,Class1,"Stead, Mr. William Thomas",male,62.0,0,0,0.347611843111758,C,S,0
+Died,Class3,"Lobb, Mr. William Arthur",male,30.0,1,0,-0.1449266532553343,n,S,1
+Died,Class3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,0.07764135058485108,n,S,2
+Survived,Class3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,-0.19784842561560204,n,C,2
+Survived,Class1,"Thorne, Mrs. Gertrude Maybelle",female,29.881137667304014,0,0,1.4511160427664747,n,C,0
+Survived,Class1,"Cherry, Miss. Gladys",female,30.0,0,0,1.5410834627177203,B,S,0
+Survived,Class1,"Ward, Miss. Anna",female,35.0,0,0,3.3682879451101964,n,C,0
+Survived,Class2,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,0.32678595244781106,n,S,1
+Died,Class3,"Smith, Mr. Thomas",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class3,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,0.514678179847421,n,S,6
+Died,Class1,"Taussig, Mr. Emil",male,52.0,1,1,1.4568945214305549,E,S,2
+Died,Class1,"Harrison, Mr. William",male,40.0,0,0,-3.0769561298885426,B,S,0
+Died,Class3,"Henry, Miss. Delia",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class2,"Reeves, Mr. David",male,36.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,0.7502960982840425,n,S,5
+Survived,Class3,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,-0.8339414509743195,n,S,1
+Survived,Class1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,2.128002487610446,C,S,1
+Survived,Class1,"Bissette, Miss. Amelia",female,35.0,0,0,2.0013362696247716,C,S,0
+Died,Class1,"Cairns, Mr. Alexander",male,29.881137667304014,0,0,0.5022474588269157,n,S,0
+Survived,Class3,"Tornquist, Mr. William Henry",male,25.0,0,0,-3.0769561298885426,n,S,0
+Survived,Class2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,0.042357024700114355,n,S,1
+Died,Class1,"Natsch, Mr. Charles H",male,37.0,0,1,0.45941638254763384,C,C,1
+Survived,Class3,"Healy, Miss. Hanora ""Nora""",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,1.4350015316873315,D,S,1
+Died,Class3,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,-0.8368879290173904,n,S,0
+Died,Class2,"Parkes, Mr. Francis ""Frank""",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Rice, Master. Eric",male,7.0,4,1,0.43989009875069424,n,Q,5
+Survived,Class3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,0.07946544264615271,n,S,2
+Died,Class3,"Duane, Mr. Frank",male,65.0,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,-0.8246621250056464,n,S,0
+Died,Class3,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,-0.6485971911542,n,S,0
+Survived,Class3,"Dorking, Mr. Edward Arthur",male,19.0,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Smith, Mr. Richard William",male,29.881137667304014,0,0,0.32678595244781106,A,S,0
+Died,Class3,"Stankovic, Mr. Ivan",male,33.0,0,0,-0.7344414641191619,n,C,0
+Survived,Class3,"de Mulder, Mr. Theodore",male,30.0,0,0,-0.6485971911542,n,S,0
+Died,Class3,"Naidenoff, Mr. Penko",male,22.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class2,"Hosono, Mr. Masabumi",male,42.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class3,"Connolly, Miss. Kate",female,22.0,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,1.446599210215005,n,S,0
+Survived,Class1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,1.5937638148251334,B,C,1
+Died,Class2,"Levy, Mr. Rene Jacques",male,36.0,0,0,-0.36075875270470786,D,C,0
+Died,Class3,"Haas, Miss. Aloisia",female,24.0,0,0,-0.7145931942520546,n,S,0
+Died,Class3,"Mineff, Mr. Ivan",male,24.0,0,0,-0.8198213298993995,n,S,0
+Died,Class1,"Lewy, Mr. Ervin G",male,29.881137667304014,0,0,0.3905935084971427,n,C,0
+Died,Class3,"Hanna, Mr. Mansour",male,23.5,0,0,-0.9002619024692602,n,C,0
+Died,Class1,"Allison, Miss. Helen Loraine",female,2.0,1,2,2.1151356465612308,C,S,3
+Survived,Class1,"Saalfeld, Mr. Adolphe",male,29.881137667304014,0,0,0.48598350295791776,C,S,0
+Survived,Class1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,2.6191479456923923,B,C,1
+Survived,Class3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class3,"McCoy, Mr. Bernard",male,29.881137667304014,2,0,0.2158487806183554,n,Q,2
+Died,Class3,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,-3.0769561298885426,n,S,0
+Survived,Class2,"Keane, Miss. Nora A",female,29.881137667304014,0,0,-0.40059387811870745,E,Q,0
+Died,Class3,"Williams, Mr. Howard Hugh ""Harry""",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"Allison, Master. Hudson Trevor",male,0.92,1,2,2.1151356465612308,C,S,3
+Survived,Class1,"Fleming, Miss. Margaret",female,29.881137667304014,0,0,1.7949490643981245,n,C,0
+Survived,Class1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,1.7764779932918948,C,C,1
+Died,Class2,"Abelson, Mr. Samuel",male,30.0,1,0,0.24730521809549502,n,C,1
+Survived,Class1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,1.1151637652723463,E,C,0
+Survived,Class1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,1.500869353367206,C,C,0
+Survived,Class1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,2.679100898282807,B,C,4
+Died,Class2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,0.32678595244781106,n,S,2
+Died,Class3,"Hendekovic, Mr. Ignjac",male,28.0,0,0,-0.8198213298993995,n,S,0
+Died,Class2,"Hart, Mr. Benjamin",male,43.0,1,1,0.33630435949113124,n,S,2
+Survived,Class3,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,-0.8246621250056464,n,S,0
+Survived,Class2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,0.32678595244781106,n,S,1
+Died,Class2,"Moraweck, Dr. Ernest",male,54.0,0,0,-0.2802447617844058,n,S,0
+Survived,Class1,"Wick, Miss. Mary Natalie",female,31.0,0,2,2.201567754337062,C,S,2
+Survived,Class1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,1.9927345230377613,E,C,2
+Died,Class3,"Dennis, Mr. Samuel",male,22.0,0,0,-0.89765485839414,n,S,0
+Died,Class3,"Danoff, Mr. Yoto",male,27.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,-0.40059387811870745,n,Q,0
+Survived,Class2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,0.43559595595868594,n,S,2
+Died,Class3,"Sage, Mr. George John Jr",male,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Survived,Class1,"Young, Miss. Marie Grice",female,36.0,0,0,2.0013362696247716,C,C,0
+Died,Class3,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,-1.0328790857492405,n,S,0
+Survived,Class2,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,-0.35149644978013467,D,S,0
+Survived,Class3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,0.09274457169934618,n,S,2
+Survived,Class1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,1.1337151440418014,B,C,1
+Survived,Class3,"McCoy, Miss. Agnes",female,29.881137667304014,2,0,0.2158487806183554,n,Q,2
+Died,Class1,"Partner, Mr. Austen",male,45.5,0,0,0.41823857504995576,C,S,0
+Died,Class1,"Graham, Mr. George Edward",male,38.0,0,1,2.128002487610446,C,S,1
+Died,Class3,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,-0.03611664974445992,n,S,2
+Survived,Class1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,29.881137667304014,1,0,1.9862356759355957,n,S,1
+Died,Class3,"Denkoff, Mr. Mitto",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,1.2746047614608564,C,S,1
+Survived,Class1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,1.9927345230377613,E,C,0
+Survived,Class3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,0.6381316073008532,T,S,0
+Survived,Class2,"Navratil, Master. Edmond Roger",male,2.0,1,1,0.32678595244781106,F,S,2
+Survived,Class1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,2.6815487303213184,C,S,5
+Died,Class2,"Collander, Mr. Erik Gustaf",male,28.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class2,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,-0.35149644978013467,F,S,0
+Survived,Class2,"Smith, Miss. Marion Elsie",female,40.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,29.881137667304014,1,0,-0.1449266532553343,n,S,1
+Survived,Class3,"Coutts, Master. William Loch ""William""",male,3.0,1,1,-0.15707667402532696,n,S,2
+Died,Class3,"Dimic, Mr. Jovan",male,42.0,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Odahl, Mr. Nils Martin",male,23.0,0,0,-0.676005647540591,n,S,0
+Died,Class1,"Williams-Lambert, Mr. Fletcher Fellows",male,29.881137667304014,0,0,0.6238866938218763,C,S,0
+Died,Class3,"Elias, Mr. Tannous",male,15.0,1,1,-0.9002619024692602,n,C,2
+Died,Class3,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,-0.047045215784774344,n,S,1
+Died,Class3,"Yousif, Mr. Wazli",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Died,Class3,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,-0.6485971911542,n,S,0
+Survived,Class1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,1.0801849857060493,E,S,1
+Died,Class2,"Funk, Miss. Annie Clemmer",female,38.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class3,"McGovern, Miss. Mary",female,29.881137667304014,0,0,-0.8217502735340512,n,Q,0
+Survived,Class3,"Mockler, Miss. Helen Mary ""Ellie""",female,29.881137667304014,0,0,-0.8217502735340512,n,Q,0
+Died,Class3,"Skoog, Mr. Wilhelm",male,40.0,1,4,0.39701714643406616,n,S,5
+Died,Class2,"del Carlo, Mr. Sebastiano",male,29.0,1,0,0.3905935084971427,n,C,1
+Died,Class3,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,-0.24943750202424797,n,C,1
+Died,Class3,"Asim, Mr. Adola",male,35.0,0,0,-0.9229994396222323,n,S,0
+Died,Class3,"O'Brien, Mr. Thomas",male,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+Died,Class3,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,-0.89765485839414,n,S,0
+Survived,Class1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,1.398956381084062,D,C,1
+Survived,Class3,"Moussa, Mrs. (Mantoura Boulos)",female,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Survived,Class3,"Jermyn, Miss. Annie",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,1.3150507948214216,B,C,0
+Survived,Class1,"Harder, Mr. George Achilles",male,25.0,1,0,1.0882987644858042,E,C,1
+Died,Class3,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,-0.9966639758395776,n,S,1
+Died,Class3,"Beavan, Mr. William Thomas",male,19.0,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Ringhini, Mr. Sante",male,22.0,0,0,2.0013362696247716,n,C,0
+Died,Class3,"Palsson, Miss. Stina Viola",female,3.0,3,1,0.11880131717345953,n,S,4
+Survived,Class1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,29.881137667304014,1,0,1.4886796930479902,n,C,1
+Survived,Class3,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,-0.89765485839414,n,S,0
+Died,Class1,"Widener, Mr. Harry Elkins",male,27.0,0,2,2.4574368343812636,C,C,2
+Died,Class3,"Betros, Mr. Tannous",male,20.0,0,0,-1.412246828205892,n,C,0
+Died,Class3,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,-0.8339414509743195,n,S,0
+Survived,Class1,"Bidois, Miss. Rosalie",female,42.0,0,0,2.5325207655977877,n,C,0
+Survived,Class3,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,-0.16679579793493268,n,C,2
+Died,Class3,"Tikkanen, Mr. Juho",male,32.0,0,0,-0.8164369666035423,n,S,0
+Survived,Class1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,1.0233225594813138,n,S,1
+Died,Class3,"Plotcharsky, Mr. Vasil",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class2,"Davies, Mr. Charles Henry",male,18.0,0,0,1.3749779275643326,n,S,0
+Died,Class3,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,0.9188336495278178,n,S,7
+Survived,Class2,"Buss, Miss. Kate",female,36.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Sadlier, Mr. Matthew",male,29.881137667304014,0,0,-0.8393458217234,n,Q,0
+Survived,Class2,"Lehmann, Miss. Bertha",female,17.0,0,0,-0.4280307060893794,n,C,0
+Survived,Class1,"Carter, Mr. William Ernest",male,36.0,1,2,1.8758478958483942,B,S,3
+Survived,Class3,"Jansson, Mr. Carl Olof",male,21.0,0,0,-0.8314963717533397,n,S,0
+Died,Class3,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,-0.8164369666035423,n,S,2
+Survived,Class1,"Newell, Miss. Marjorie",female,23.0,1,0,1.8167930205456748,D,C,1
+Survived,Class3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,-0.10931140482994556,G,S,2
+Died,Class3,"Johansson, Mr. Erik",male,22.0,0,0,-0.8314963717533397,n,S,0
+Died,Class3,"Olsson, Miss. Elina",female,31.0,0,0,-0.8246621250056464,n,S,0
+Died,Class2,"McKane, Mr. Peter David",male,46.0,0,0,0.32678595244781106,n,S,0
+Died,Class2,"Pain, Dr. Alfred",male,23.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class2,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,-0.3776431590901471,n,S,0
+Survived,Class3,"Niskanen, Mr. Juha",male,39.0,0,0,-0.8164369666035423,n,S,0
+Died,Class3,"Adams, Mr. John",male,26.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Jussila, Miss. Mari Aina",female,21.0,1,0,-0.6171161649256502,n,S,1
+Died,Class3,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,-0.16013664620044818,n,S,1
+Died,Class3,"Oreskovic, Miss. Marija",female,20.0,0,0,-0.7344414641191619,n,S,0
+Died,Class2,"Gale, Mr. Shadrach",male,34.0,1,0,0.1152866007230175,n,S,1
+Died,Class3,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,-0.8368879290173904,n,S,0
+Survived,Class2,"Richards, Master. William Rowe",male,3.0,1,1,0.003865369895454604,n,S,2
+Died,Class3,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Lefebre, Miss. Ida",female,29.881137667304014,3,1,0.30618328088189595,n,S,4
+Died,Class3,"Sdycoff, Mr. Todor",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Hart, Mr. Henry",male,29.881137667304014,0,0,-0.947890322177156,n,Q,0
+Survived,Class1,"Minahan, Miss. Daisy E",female,33.0,1,0,1.5815882562759367,C,Q,1
+Died,Class2,"Cunningham, Mr. Alfred Fleming",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Survived,Class3,"Sundman, Mr. Johan Julian",male,44.0,0,0,-0.8164369666035423,n,S,0
+Died,Class3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,0.5495567923592675,n,S,2
+Survived,Class2,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,-0.35149644978013467,n,S,2
+Died,Class2,"Matthews, Mr. William John",male,30.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Van Impe, Miss. Catharina",female,10.0,0,2,0.25348314192371696,n,S,2
+Died,Class3,"Gheorgheff, Mr. Stanio",male,29.881137667304014,0,0,-0.8198213298993995,n,C,0
+Died,Class3,"Charters, Mr. David",male,21.0,0,0,-0.8388608701440298,n,Q,0
+Died,Class3,"Zimmerman, Mr. Leo",male,29.0,0,0,-0.8222388911530752,n,S,0
+Died,Class3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,-0.2530658286467767,n,S,2
+Died,Class3,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,0.07764135058485108,n,S,2
+Died,Class3,"Wiseman, Mr. Phillippe",male,29.881137667304014,0,0,-0.89765485839414,n,S,0
+Survived,Class2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,0.32678595244781106,n,S,1
+Survived,Class2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,0.32678595244781106,n,S,0
+Died,Class3,"Flynn, Mr. James",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class3,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,-0.8020731765945291,E,S,0
+Survived,Class1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,0.347611843111758,C,S,0
+Survived,Class3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,29.881137667304014,1,0,-0.1449266532553343,n,S,1
+Survived,Class2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,-0.9134221853266355,n,S,0
+Died,Class1,"Silvey, Mr. William Baird",male,50.0,1,0,1.0966506288823086,E,S,1
+Survived,Class1,"Carter, Miss. Lucile Polk",female,14.0,1,2,1.8758478958483942,B,S,3
+Died,Class3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,0.6057997192031446,n,S,4
+Survived,Class2,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,0.003865369895454604,n,S,5
+Died,Class1,"Fortune, Mr. Mark",male,64.0,1,4,2.6815487303213184,C,S,5
+Died,Class2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,0.33630435949113124,n,S,2
+Died,Class3,"Hampe, Mr. Leon",male,20.0,0,0,-0.6485971911542,n,S,0
+Died,Class3,"Petterson, Mr. Johan Emil",male,25.0,1,0,-0.8339414509743195,n,S,1
+Survived,Class2,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class3,"Johannesen-Bratthammer, Mr. Bernt",male,29.881137667304014,0,0,-0.7949655101802209,n,S,0
+Survived,Class1,"Dodge, Master. Washington",male,4.0,0,2,1.4847920422042842,A,S,2
+Survived,Class2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,0.042357024700114355,n,S,1
+Survived,Class1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,0.347611843111758,n,S,0
+Survived,Class3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,0.030108420189134306,n,C,3
+Survived,Class1,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,0.48598350295791776,C,S,0
+Died,Class2,"West, Mr. Edwy Arthur",male,36.0,1,2,0.3916429459964887,n,S,3
+Died,Class3,"Hagland, Mr. Ingvald Olai Olsen",male,29.881137667304014,1,0,0.06560459646853635,n,S,1
+Died,Class1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,0.3916429459964887,C,C,0
+Survived,Class1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,1.5713716416895127,C,C,1
+Died,Class3,"Peduzzi, Mr. Joseph",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Jalsevac, Mr. Ivan",male,29.0,0,0,-0.8198213298993995,n,C,0
+Died,Class1,"Millet, Mr. Francis Davis",male,65.0,0,0,0.347611843111758,E,S,0
+Survived,Class1,"Kenyon, Mrs. Frederick R (Marion)",female,29.881137667304014,1,0,1.0206398000581522,D,S,1
+Survived,Class2,"Toomey, Miss. Ellen",female,50.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"O'Connor, Mr. Maurice",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Anderson, Mr. Harry",male,48.0,0,0,0.347611843111758,E,S,0
+Died,Class3,"Morley, Mr. William",male,34.0,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Gee, Mr. Arthur H",male,47.0,0,0,0.7197060876385464,E,S,0
+Died,Class2,"Milling, Mr. Jacob Christian",male,48.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Maisner, Mr. Simon",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,-0.9229994396222323,n,S,0
+Died,Class2,"Campbell, Mr. William",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class1,"Smart, Mr. John Montgomery",male,56.0,0,0,0.347611843111758,n,S,0
+Died,Class3,"Scanlan, Mr. James",male,29.881137667304014,0,0,-0.8398428376242888,n,Q,0
+Survived,Class3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,0.030108420189134306,n,C,3
+Died,Class3,"Keefe, Mr. Arthur",male,29.881137667304014,0,0,-0.89765485839414,n,S,0
+Died,Class3,"Cacic, Mr. Luka",male,38.0,0,0,-0.7344414641191619,n,S,0
+Survived,Class2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,0.3916429459964887,n,S,3
+Survived,Class2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,-0.29468658397471814,D,C,0
+Died,Class3,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,-0.6159243126830909,n,S,0
+Died,Class1,"Clifford, Mr. George Quincy",male,29.881137667304014,0,0,1.0233225594813138,A,S,0
+Died,Class2,"Renouf, Mr. Peter Henry",male,34.0,1,0,0.1152866007230175,n,S,1
+Died,Class3,"Braund, Mr. Lewis Richard",male,29.0,1,0,-0.9235384010262477,n,S,1
+Died,Class3,"Karlsson, Mr. Nils August",male,22.0,0,0,-0.8643004254697909,n,S,0
+Survived,Class3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,-0.4054401556818569,n,S,1
+Died,Class3,"Goodwin, Master. Harold Victor",male,9.0,5,2,0.9188336495278178,n,S,7
+Died,Class2,"Frost, Mr. Anthony Wood ""Archie""",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Rouse, Mr. Richard Henry",male,50.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,-0.6400266867506753,n,S,0
+Survived,Class1,"Bishop, Mr. Dickinson H",male,25.0,1,0,1.5937638148251334,B,C,1
+Died,Class3,"Lefebre, Miss. Jeannie",female,29.881137667304014,3,1,0.30618328088189595,n,S,4
+Survived,Class1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,1.5815882562759367,C,S,1
+Died,Class1,"Kent, Mr. Edward Austin",male,58.0,0,0,0.45941638254763384,B,C,0
+Died,Class3,"Somerton, Mr. Francis William",male,30.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,-0.15707667402532696,n,S,2
+Died,Class3,"Hagland, Mr. Konrad Mathias Reiersen",male,29.881137667304014,1,0,0.06560459646853635,n,S,1
+Died,Class3,"Windelov, Mr. Einar",male,21.0,0,0,-0.89765485839414,n,S,0
+Died,Class1,"Molson, Mr. Harry Markland",male,55.0,0,0,0.48598350295791776,C,S,0
+Died,Class1,"Artagaveytia, Mr. Ramon",male,71.0,0,0,0.9735079267305335,n,C,0
+Died,Class3,"Stanley, Mr. Edward Roland",male,21.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Yousseff, Mr. Gerious",male,29.881137667304014,0,0,-0.24916355242946245,n,C,0
+Survived,Class1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,1.4390274109626553,D,C,1
+Died,Class3,"Shellard, Mr. Frederick William",male,29.881137667304014,0,0,-0.20715872187914103,n,S,0
+Died,Class1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,2.1151356465612308,C,S,3
+Died,Class3,"Svensson, Mr. Olof",male,24.0,0,0,-0.8314963717533397,n,S,0
+Died,Class3,"Calic, Mr. Petar",male,17.0,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Canavan, Miss. Mary",female,21.0,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"O'Sullivan, Miss. Bridget Mary",female,29.881137667304014,0,0,-0.8512449746248928,n,Q,0
+Died,Class3,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,-0.6400266867506753,n,S,0
+Survived,Class1,"Maioni, Miss. Roberta",female,16.0,0,0,1.5410834627177203,B,S,0
+Died,Class1,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,1.7764779932918948,C,C,1
+Survived,Class2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,0.32678595244781106,n,S,2
+Survived,Class1,"Bradley, Mr. George (""George Arthur Brayton"")",male,29.881137667304014,0,0,0.347611843111758,n,S,0
+Died,Class3,"Olsen, Mr. Henry Margido",male,28.0,0,0,0.18450209816056107,n,S,0
+Survived,Class3,"Lang, Mr. Fang",male,26.0,0,0,1.1074082260733904,n,S,0
+Survived,Class3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Webber, Mr. James",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"McGough, Mr. James Robert",male,36.0,0,0,0.3377245841296537,E,S,0
+Survived,Class1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,1.158298757775991,n,C,1
+Died,Class3,"Coleff, Mr. Satio",male,24.0,0,0,-0.867334934703661,n,S,0
+Died,Class1,"Walker, Mr. William Anderson",male,47.0,0,0,0.5954070667133421,D,S,0
+Survived,Class2,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,-0.5546470102524386,F,S,0
+Died,Class3,"Ryan, Mr. Patrick",male,29.881137667304014,0,0,0.25348314192371696,n,Q,0
+Survived,Class2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Pavlovic, Mr. Stefo",male,32.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Perreault, Miss. Anne",female,30.0,0,0,1.620564197070036,B,S,0
+Died,Class3,"Vovk, Mr. Janko",male,22.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Lahoud, Mr. Sarkis",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Survived,Class1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,1.1337151440418014,B,C,1
+Died,Class3,"Kassem, Mr. Fared",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Farrell, Mr. James",male,40.5,0,0,-0.8368879290173904,n,Q,0
+Survived,Class2,"Ridsdale, Miss. Lucy",female,50.0,0,0,-0.5546470102524386,n,S,0
+Died,Class1,"Farthing, Mr. John",male,29.881137667304014,0,0,2.5062225955576634,C,S,0
+Died,Class3,"Salonen, Mr. Johan Werner",male,39.0,0,0,-0.8164369666035423,n,S,0
+Died,Class2,"Hocking, Mr. Richard George",male,23.0,2,1,-0.4685354996475963,n,S,3
+Survived,Class2,"Quick, Miss. Phyllis May",female,2.0,1,1,0.32678595244781106,n,S,2
+Died,Class3,"Toufik, Mr. Nakli",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Elias, Mr. Joseph Jr",male,17.0,1,1,-0.9002619024692602,n,C,2
+Survived,Class3,"Peter, Mrs. Catherine (Catherine Rizk)",female,29.881137667304014,0,2,0.17715797097251948,n,C,2
+Died,Class3,"Cacic, Miss. Marija",female,30.0,0,0,-0.7344414641191619,n,S,0
+Survived,Class2,"Hart, Miss. Eva Miriam",female,7.0,0,2,0.33630435949113124,n,S,2
+Died,Class1,"Butt, Major. Archibald Willingham",male,45.0,0,0,0.347611843111758,B,S,0
+Survived,Class1,"LeRoy, Miss. Bertha",female,30.0,0,0,1.7529543153936602,n,C,0
+Died,Class3,"Risien, Mr. Samuel Beard",male,29.881137667304014,0,0,-0.24638140496411706,n,S,0
+Survived,Class1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,0.9734220390667052,B,C,2
+Survived,Class1,"Crosby, Miss. Harriet R",female,36.0,0,2,1.3397274115649682,B,S,2
+Died,Class3,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,0.5110846487977208,n,S,6
+Died,Class3,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,0.5110846487977208,n,S,6
+Survived,Class2,"Beane, Mr. Edward",male,32.0,1,0,0.32678595244781106,n,S,1
+Died,Class1,"Douglas, Mr. Walter Donald",male,50.0,1,0,1.7529543153936602,C,C,1
+Died,Class1,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,0.32678595244781106,n,S,0
+Survived,Class2,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,0.32678595244781106,n,S,1
+Survived,Class2,"Padro y Manent, Mr. Julian",male,29.881137667304014,0,0,-0.28975520018675943,n,C,0
+Died,Class3,"Goldsmith, Mr. Frank John",male,33.0,1,1,0.09274457169934618,n,S,2
+Survived,Class2,"Davies, Master. John Morgan Jr",male,8.0,1,1,0.6729072785387347,n,S,2
+Survived,Class1,"Thayer, Mr. John Borland Jr",male,17.0,0,2,1.7949490643981245,C,C,2
+Died,Class2,"Sharp, Mr. Percival James R",male,27.0,0,0,0.32678595244781106,n,S,0
+Died,Class3,"O'Brien, Mr. Timothy",male,29.881137667304014,0,0,-0.8275822097789429,n,Q,0
+Survived,Class3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,-0.9007891243918247,n,C,0
+Survived,Class3,"Ohman, Miss. Velin",female,22.0,0,0,-0.8339414509743195,n,S,0
+Died,Class1,"Wright, Mr. George",male,62.0,0,0,0.347611843111758,n,S,0
+Survived,Class1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,0.748072760819175,A,C,1
+Died,Class1,"Robbins, Mr. Victor",male,29.881137667304014,0,0,2.5325207655977877,n,C,0
+Survived,Class1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,1.4568945214305549,E,S,2
+Survived,Class3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,-0.06925553101518239,n,S,1
+Died,Class3,"Morrow, Mr. Thomas Rowan",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Sivic, Mr. Husein",male,40.0,0,0,-0.8198213298993995,n,S,0
+Died,Class2,"Norman, Mr. Robert Douglas",male,28.0,0,0,-0.31525624529721435,n,S,0
+Died,Class3,"Simmons, Mr. John",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Meanwell, Miss. (Marion Ogden)",female,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Davies, Mr. Alfred J",male,24.0,2,0,0.25348314192371696,n,S,2
+Died,Class3,"Stoytcheff, Mr. Ilia",male,19.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,0.11880131717345953,n,S,4
+Died,Class3,"Doharr, Mr. Tannous",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Survived,Class3,"Jonsson, Mr. Carl",male,32.0,0,0,-0.8246621250056464,n,S,0
+Survived,Class2,"Harris, Mr. George",male,62.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,1.0131242400690605,C,S,2
+Survived,Class1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,0.34150232900439076,E,S,0
+Survived,Class3,"Kelly, Miss. Mary",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Rush, Mr. Alfred George John",male,16.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Patchett, Mr. George",male,19.0,0,0,-0.24638140496411706,n,S,0
+Survived,Class2,"Garside, Miss. Ethel",female,34.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,1.0966506288823086,E,S,1
+Died,Class3,"Caram, Mrs. Joseph (Maria Elias)",female,29.881137667304014,1,0,-0.24916355242946245,n,C,1
+Survived,Class3,"Jussila, Mr. Eiriik",male,32.0,0,0,-0.8164369666035423,n,S,0
+Survived,Class2,"Christy, Miss. Julie Rachel",female,25.0,1,1,0.4694593127789747,n,S,2
+Survived,Class1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,1.7949490643981245,C,C,2
+Died,Class2,"Downton, Mr. William James",male,54.0,0,0,0.32678595244781106,n,S,0
+Died,Class1,"Ross, Mr. John Hugo",male,36.0,0,0,0.7613415496001943,A,C,0
+Died,Class3,"Paulner, Mr. Uscher",male,29.881137667304014,0,0,-0.729111182074502,n,C,0
+Survived,Class1,"Taussig, Miss. Ruth",female,18.0,0,2,1.4568945214305549,E,S,2
+Died,Class2,"Jarvis, Mr. John Denzil",male,47.0,0,0,-0.21359325891617606,n,S,0
+Survived,Class1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,1.4511160427664747,B,C,2
+Died,Class3,"Gilinski, Mr. Eliezer",male,22.0,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Murdlin, Mr. Joseph",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Died,Class3,"Rintamaki, Mr. Matti",male,35.0,0,0,-0.9134221853266355,n,S,0
+Survived,Class1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,1.4390274109626553,D,C,1
+Died,Class3,"Elsbury, Mr. William James",male,47.0,0,0,-0.89765485839414,n,S,0
+Died,Class3,"Bourke, Miss. Mary",female,29.881137667304014,0,2,-0.8368879290173904,n,Q,2
+Died,Class2,"Chapman, Mr. John Henry",male,37.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,0.25348314192371696,n,S,2
+Survived,Class2,"Leitch, Miss. Jessie Wills",female,29.881137667304014,0,0,0.564856921883409,n,S,0
+Died,Class3,"Johnson, Mr. Alfred",male,49.0,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Boulos, Mr. Hanna",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Survived,Class1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,1.1151637652723463,A,C,1
+Survived,Class2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,0.36434426796295705,n,S,3
+Died,Class3,"Slabenoff, Mr. Petco",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class1,"Harrington, Mr. Charles H",male,29.881137667304014,0,0,0.8169476011522723,n,S,0
+Died,Class3,"Torber, Mr. Ernst William",male,44.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,0.347611843111758,n,C,0
+Died,Class3,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,-0.1786893580748073,n,S,1
+Died,Class3,"Karaic, Mr. Milan",male,30.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Daniel, Mr. Robert Williams",male,27.0,0,0,0.48598350295791776,n,S,0
+Survived,Class2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,0.7972289104862824,n,C,3
+Survived,Class1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,2.128002487610446,C,S,0
+Died,Class3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,0.5110846487977208,n,S,6
+Died,Class3,"Jardin, Mr. Jose Neto",male,29.881137667304014,0,0,-0.9229994396222323,n,S,0
+Survived,Class3,"Murphy, Miss. Margaret Jane",female,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+Died,Class3,"Horgan, Mr. John",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Brocklebank, Mr. William Alfred",male,35.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class2,"Herman, Miss. Alice",female,24.0,1,2,1.2498672948351348,n,S,3
+Died,Class3,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,-0.2530658286467767,n,S,2
+Died,Class3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,-0.1449266532553343,n,S,1
+Survived,Class2,"Becker, Miss. Marion Louise",female,4.0,2,1,0.7326966973327512,F,S,3
+Died,Class2,"Gavey, Mr. Lawrence",male,26.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Yasbeck, Mr. Antoni",male,27.0,1,0,-0.24943750202424797,n,C,1
+Survived,Class1,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,1.0340654412795942,D,S,1
+Survived,Class3,"Nakid, Mr. Sahid",male,20.0,1,1,-0.16679579793493268,n,C,2
+Died,Class3,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,-0.8246621250056464,n,S,0
+Died,Class3,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,-0.1449266532553343,n,S,0
+Died,Class1,"Sutton, Mr. Frederick",male,61.0,0,0,0.5440175762640052,D,S,0
+Died,Class2,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,-0.40059387811870745,n,Q,0
+Survived,Class1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,1.4350015316873315,D,S,0
+Died,Class3,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"O'Connell, Mr. Patrick D",male,29.881137667304014,0,0,-0.8388608701440298,n,Q,0
+Survived,Class1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,0.4694593127789747,A,S,0
+Died,Class3,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,-0.9224607593421481,n,S,0
+Survived,Class1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,0.48598350295791776,B,C,0
+Died,Class1,"Parr, Mr. William Henry Marsh",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Skoog, Miss. Mabel",female,9.0,3,2,0.39701714643406616,n,S,5
+Survived,Class2,"Davis, Miss. Mary",female,28.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,-0.8164369666035423,n,S,0
+Died,Class2,"Collyer, Mr. Harvey",male,31.0,1,1,0.33630435949113124,n,S,2
+Died,Class3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,0.7502960982840425,n,S,5
+Died,Class3,"Thorneycroft, Mr. Percival",male,29.881137667304014,1,0,-0.1449266532553343,n,S,1
+Died,Class3,"Jensen, Mr. Hans Peder",male,20.0,0,0,-0.8246621250056464,n,S,0
+Survived,Class1,"Sagesser, Mlle. Emma",female,24.0,0,0,1.3150507948214216,B,C,0
+Died,Class3,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,0.39701714643406616,n,S,5
+Survived,Class3,"Foo, Mr. Choong",male,29.881137667304014,0,0,1.1074082260733904,n,S,0
+Survived,Class3,"Baclini, Miss. Eugenie",female,0.75,2,1,0.030108420189134306,n,C,3
+Survived,Class1,"Harper, Mr. Henry Sleeper",male,48.0,1,0,1.4187990064027005,D,C,1
+Died,Class3,"Cor, Mr. Liudevit",male,19.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,0.6381316073008532,A,C,0
+Died,Class3,"Willey, Mr. Edward",male,29.881137667304014,0,0,-0.860767370998426,n,S,0
+Survived,Class3,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,-0.860767370998426,n,S,0
+Died,Class3,"Mitkoff, Mr. Mito",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Survived,Class2,"Doling, Miss. Elsie",female,18.0,0,1,0.2051467174528504,n,S,1
+Died,Class3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,-0.7592338626786891,n,S,0
+Survived,Class3,"O'Leary, Miss. Hanora ""Norah""",female,29.881137667304014,0,0,-0.8275822097789429,n,Q,0
+Died,Class3,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,-0.9622221227072089,n,Q,0
+Died,Class2,"Hickman, Mr. Leonard Mark",male,24.0,2,0,1.3749779275643326,n,S,2
+Died,Class3,"Radeff, Mr. Alexander",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,-0.18181414065104826,n,Q,2
+Died,Class2,"Eitemiller, Mr. George Floyd",male,23.0,0,0,-0.35149644978013467,n,S,0
+Died,Class1,"Newell, Mr. Arthur Webster",male,58.0,0,2,1.8167930205456748,D,C,2
+Survived,Class1,"Frauenthal, Dr. Henry William",male,50.0,2,0,1.9862356759355957,n,S,2
+Died,Class3,"Badt, Mr. Mohamed",male,40.0,0,0,-0.9007891243918247,n,C,0
+Died,Class1,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,0.31088621448191955,E,S,0
+Died,Class3,"Coleff, Mr. Peju",male,36.0,0,0,-0.867334934703661,n,S,0
+Survived,Class3,"Lindqvist, Mr. Eino William",male,20.0,1,0,-0.8164369666035423,n,S,1
+Died,Class2,"Hickman, Mr. Lewis",male,32.0,2,0,1.3749779275643326,n,S,2
+Died,Class2,"Butler, Mr. Reginald Fenton",male,25.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Rommetvedt, Mr. Knud Paust",male,29.881137667304014,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Cook, Mr. Jacob",male,43.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,29.881137667304014,1,0,1.0233225594813138,C,S,1
+Survived,Class2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,0.7326966973327512,n,S,2
+Died,Class1,"Davidson, Mr. Thornton",male,31.0,1,0,1.0233225594813138,B,S,1
+Died,Class2,"Mitchell, Mr. Henry Michael",male,70.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class2,"Wilhelms, Mr. Charles",male,31.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Watson, Mr. Ennis Hastings",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class3,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Turja, Miss. Anna Sofia",female,18.0,0,0,-0.6155241588546105,n,S,0
+Died,Class3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,0.9188336495278178,n,S,7
+Survived,Class1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,3.3682879451101964,B,C,1
+Died,Class3,"Peters, Miss. Katie",female,29.881137667304014,0,0,-0.7921360841540774,n,Q,0
+Survived,Class1,"Hassab, Mr. Hammad",male,27.0,0,0,1.4187990064027005,D,C,0
+Died,Class3,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,-0.676005647540591,n,S,0
+Died,Class3,"Goodwin, Mr. Charles Edward",male,14.0,5,2,0.9188336495278178,n,S,7
+Died,Class2,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,0.7326966973327512,n,S,2
+Died,Class2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,0.7972289104862824,n,C,3
+Died,Class3,"Panula, Mr. Jaako Arnold",male,14.0,4,1,0.7502960982840425,n,S,5
+Died,Class3,"Dakic, Mr. Branko",male,19.0,0,0,-0.5846417045973916,n,S,0
+Died,Class3,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,-0.8314963717533397,n,S,0
+Survived,Class1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,2.4566467900260127,B,S,1
+Survived,Class1,"Dick, Mr. Albert Adrian",male,31.0,1,0,1.1164251901889688,B,S,1
+Survived,Class3,"Karun, Miss. Manca",female,4.0,0,1,-0.3212062650272702,n,C,1
+Survived,Class3,"Lam, Mr. Ali",male,29.881137667304014,0,0,1.1074082260733904,n,S,0
+Died,Class3,"Saad, Mr. Khalil",male,25.0,0,0,-0.9007891243918247,n,C,0
+Died,Class1,"Weir, Col. John",male,60.0,0,0,0.347611843111758,n,S,0
+Died,Class2,"Chapman, Mr. Charles Henry",male,52.0,0,0,-0.31525624529721435,n,S,0
+Died,Class3,"Kelly, Mr. James",male,44.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Mullens, Miss. Katherine ""Katie""",female,29.881137667304014,0,0,-0.8388608701440298,n,Q,0
+Died,Class1,"Thayer, Mr. John Borland",male,49.0,1,1,1.7949490643981245,C,C,2
+Died,Class3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,-0.8487586327422224,F,S,0
+Survived,Class1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,2.5325207655977877,C,C,1
+Survived,Class1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,0.3377245841296537,E,S,0
+Died,Class3,"Barbara, Miss. Saiide",female,18.0,0,1,-0.24943750202424797,n,C,1
+Died,Class3,"Gallagher, Mr. Martin",male,25.0,0,0,-0.8378680214529846,n,Q,0
+Died,Class3,"Hansen, Mr. Henrik Juul",male,26.0,1,0,-0.8246621250056464,n,S,1
+Died,Class2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,0.32678595244781106,n,S,0
+Survived,Class2,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,-0.31525624529721435,n,S,0
+Survived,Class1,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,0.3377245841296537,E,S,0
+Survived,Class1,"Cleaver, Miss. Alice",female,22.0,0,0,2.1151356465612308,n,S,0
+Survived,Class3,"Moubarek, Master. Halim Gonios (""William George"")",male,29.881137667304014,1,1,-0.19784842561560204,n,C,2
+Survived,Class1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,0.9735079267305335,C,C,0
+Died,Class1,"Klaber, Mr. Herman",male,29.881137667304014,0,0,0.347611843111758,C,S,0
+Survived,Class1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,1.0233225594813138,C,S,1
+Died,Class3,"Larsson, Mr. August Viktor",male,29.0,0,0,-0.6502410469057532,n,S,0
+Died,Class2,"Greenberg, Mr. Samuel",male,52.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,-0.8487586327422224,F,S,0
+Survived,Class1,"Endres, Miss. Caroline Louise",female,38.0,0,0,2.5325207655977877,C,C,0
+Survived,Class2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,-0.5546470102524386,E,S,0
+Died,Class3,"McEvoy, Mr. Michael",male,29.881137667304014,0,0,-0.18181414065104826,n,Q,0
+Died,Class3,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,-0.8339414509743195,n,S,0
+Survived,Class2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,0.564856921883409,n,S,1
+Died,Class3,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,-0.9224607593421481,n,S,1
+Died,Class2,"Gillespie, Mr. William Henry",male,34.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Hodges, Mr. Henry Price",male,50.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class1,"Chambers, Mr. Norman Campbell",male,27.0,1,0,1.0445373827684135,E,S,1
+Died,Class3,"Oreskovic, Mr. Luka",male,20.0,0,0,-0.7344414641191619,n,S,0
+Survived,Class2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,0.1152866007230175,n,S,3
+Survived,Class3,"Mannion, Miss. Margareth",female,29.881137667304014,0,0,-0.8383643264862136,n,Q,0
+Died,Class2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,0.32678595244781106,n,S,1
+Died,Class3,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,-0.8164369666035423,n,S,1
+Survived,Class1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,2.4566467900260127,B,S,0
+Died,Class3,"Hassan, Mr. Houssein G N",male,11.0,0,0,0.005824409092233192,n,C,0
+Died,Class2,"Knight, Mr. Robert J",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+Died,Class2,"Berriman, Mr. William John",male,23.0,0,0,-0.35149644978013467,n,S,0
+Died,Class2,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,-0.35149644978013467,n,S,0
+Died,Class3,"Williams, Mr. Leslie",male,28.5,0,0,-0.1449266532553343,n,S,0
+Died,Class3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,0.6057997192031446,n,S,4
+Survived,Class1,"Lesurer, Mr. Gustave J",male,35.0,0,0,3.3682879451101964,B,C,0
+Died,Class3,"Ivanoff, Mr. Kanio",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Nankoff, Mr. Minko",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Hawksford, Mr. Walter James",male,29.881137667304014,0,0,0.4694593127789747,D,S,0
+Died,Class1,"Cavendish, Mr. Tyrell William",male,36.0,1,0,1.446599210215005,C,S,1
+Survived,Class1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,2.679100898282807,B,C,4
+Died,Class3,"McNamee, Mr. Neal",male,24.0,1,0,-0.1449266532553343,n,S,1
+Survived,Class3,"Stranden, Mr. Juho",male,31.0,0,0,-0.8164369666035423,n,S,0
+Died,Class1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,1.3397274115649682,B,S,2
+Died,Class3,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,0.07946544264615271,n,S,2
+Survived,Class2,"Sinkkonen, Miss. Anna",female,30.0,0,0,-0.35149644978013467,n,S,0
+Died,Class1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,1.0445373827684135,D,S,1
+Died,Class3,"Connaghton, Mr. Michael",male,31.0,0,0,-0.8368879290173904,n,Q,0
+Survived,Class2,"Wells, Miss. Joan",female,4.0,1,1,0.2051467174528504,n,S,2
+Survived,Class3,"Moor, Master. Meier",male,6.0,0,1,-0.3909690195107353,E,S,1
+Died,Class3,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,-0.6485971911542,n,S,0
+Died,Class3,"Jonkoff, Mr. Lalio",male,23.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class2,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,1.2498672948351348,n,S,3
+Survived,Class2,"Hamalainen, Master. Viljo",male,0.67,1,1,-0.24638140496411706,n,S,2
+Died,Class3,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,-0.8314963717533397,n,S,0
+Died,Class2,"Bailey, Mr. Percy Andrew",male,18.0,0,0,-0.4685354996475963,n,S,0
+Died,Class3,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,-0.8020731765945291,n,S,0
+Survived,Class1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,1.5410834627177203,B,S,0
+Died,Class3,"Garfirth, Mr. John",male,29.881137667304014,0,0,-0.24638140496411706,n,S,0
+Died,Class3,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,-0.9134221853266355,n,S,0
+Survived,Class3,"Barah, Mr. Hanna Assi",male,20.0,0,0,-0.9002619024692602,n,C,0
+Survived,Class1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,1.8758478958483942,B,S,3
+Died,Class3,"Eklund, Mr. Hans Linus",male,16.0,0,0,-0.8339414509743195,n,S,0
+Survived,Class1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,1.4350015316873315,D,S,1
+Died,Class1,"Brewe, Dr. Arthur Jackson",male,29.881137667304014,0,0,0.748072760819175,n,C,0
+Died,Class3,"Mangan, Miss. Mary",female,30.5,0,0,-0.8368879290173904,n,Q,0
+Died,Class3,"Moran, Mr. Daniel J",male,29.881137667304014,1,0,0.25348314192371696,n,Q,1
+Died,Class3,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,-0.7670141463008573,n,S,0
+Died,Class3,"Lievens, Mr. Rene Aime",male,24.0,0,0,-0.6485971911542,n,S,0
+Died,Class3,"Jensen, Mr. Niels Peder",male,48.0,0,0,-0.8246621250056464,n,S,0
+Died,Class2,"Mack, Mrs. (Mary)",female,57.0,0,0,-0.5546470102524386,E,S,0
+Died,Class3,"Elias, Mr. Dibo",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+Survived,Class2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,0.2051467174528504,n,S,4
+Died,Class3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,-0.8368879290173904,n,S,0
+Died,Class3,"Tobin, Mr. Roger",male,29.881137667304014,0,0,-0.8368879290173904,F,Q,0
+Survived,Class3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,-0.3909690195107353,n,S,0
+Died,Class3,"Kilgannon, Mr. Thomas J",male,29.881137667304014,0,0,-0.8383643264862136,n,Q,0
+Survived,Class1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,2.4566467900260127,B,S,1
+Survived,Class3,"Ayoub, Miss. Banoura",female,13.0,0,0,-0.9002619024692602,n,C,0
+Survived,Class1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,1.1164251901889688,B,S,1
+Died,Class1,"Long, Mr. Milton Clyde",male,29.0,0,0,0.4694593127789747,D,S,0
+Died,Class3,"Johnston, Mr. Andrew G",male,29.881137667304014,1,2,0.2243312911690128,n,S,3
+Died,Class3,"Ali, Mr. William",male,25.0,0,0,-0.9229994396222323,n,S,0
+Died,Class3,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,-0.89765485839414,n,S,0
+Survived,Class3,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,-0.867334934703661,n,S,0
+Died,Class3,"Rice, Master. George Hugh",male,8.0,4,1,0.43989009875069424,n,Q,5
+Survived,Class3,"Dean, Master. Bertram Vere",male,1.0,1,2,0.0951407209263697,n,S,3
+Died,Class1,"Guggenheim, Mr. Benjamin",male,46.0,0,0,1.4511160427664747,B,C,0
+Died,Class3,"Keane, Mr. Andrew ""Andy""",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Died,Class2,"Gaskell, Mr. Alfred",male,16.0,0,0,0.32678595244781106,n,S,0
+Died,Class3,"Sage, Miss. Stella Anna",female,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class1,"Hoyt, Mr. William Fisher",male,29.881137667304014,0,0,0.49238301401308104,n,C,0
+Died,Class3,"Dantcheff, Mr. Ristiu",male,25.0,0,0,-0.8198213298993995,n,S,0
+Died,Class2,"Otter, Mr. Richard",male,39.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,0.32407432224974875,D,S,0
+Survived,Class3,"Osman, Mrs. Mara",female,31.0,0,0,-0.7322207239862968,n,S,0
+Died,Class3,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,0.25348314192371696,n,S,2
+Died,Class2,"Ponesell, Mr. Martin",male,34.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,0.33630435949113124,n,S,2
+Survived,Class1,"Carter, Master. William Thornton II",male,11.0,1,2,1.8758478958483942,B,S,3
+Survived,Class3,"Thomas, Master. Assad Alexander",male,0.42,0,1,-0.7501435133500951,n,C,1
+Survived,Class3,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,-0.9326663419069485,n,S,0
+Died,Class3,"Johansson, Mr. Karl Johan",male,31.0,0,0,-0.8339414509743195,n,S,0
+Died,Class1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,-3.0769561298885426,A,S,0
+Died,Class3,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,-0.8339414509743195,n,S,0
+Died,Class2,"Meyer, Mr. August",male,39.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,1.0445373827684135,E,S,1
+Died,Class3,"Alexander, Mr. William",male,26.0,0,0,-0.8207853513585119,n,S,0
+Died,Class3,"Lester, Mr. James",male,39.0,0,0,0.25348314192371696,n,S,0
+Died,Class2,"Slemen, Mr. Richard James",male,35.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,0.5110846487977208,n,S,6
+Died,Class3,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,-0.8020731765945291,n,S,0
+Died,Class1,"Fry, Mr. Richard",male,29.881137667304014,0,0,-3.0769561298885426,B,S,0
+Died,Class3,"Heininen, Miss. Wendla Maria",female,23.0,0,0,-0.8164369666035423,n,S,0
+Died,Class2,"Mallet, Mr. Albert",male,31.0,1,1,0.6798382066222695,n,C,2
+Died,Class3,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,-1.0029934641707778,n,S,0
+Died,Class3,"Skoog, Master. Karl Thorsten",male,10.0,3,2,0.39701714643406616,n,S,5
+Survived,Class1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,1.620564197070036,B,S,2
+Survived,Class3,"Lulic, Mr. Nikola",male,27.0,0,0,-0.7344414641191619,n,S,0
+Died,Class1,"Reuchlin, Jonkheer. John George",male,38.0,0,0,-3.0769561298885426,n,S,0
+Survived,Class3,"Moor, Mrs. (Beila)",female,27.0,0,1,-0.3909690195107353,E,S,1
+Died,Class3,"Panula, Master. Urho Abraham",male,2.0,4,1,0.7502960982840425,n,S,5
+Died,Class3,"Flynn, Mr. John",male,29.881137667304014,0,0,-0.9359088558847705,n,Q,0
+Died,Class3,"Lam, Mr. Len",male,29.881137667304014,0,0,1.1074082260733904,n,S,0
+Survived,Class2,"Mallet, Master. Andre",male,1.0,0,2,0.6798382066222695,n,C,2
+Survived,Class3,"McCormack, Mr. Thomas Joseph",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+Survived,Class1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,1.4613666465599293,B,,0
+Survived,Class3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,-0.24943750202424797,n,C,1
+Survived,Class2,"Richards, Master. George Sibley",male,0.83,1,1,0.003865369895454604,n,S,2
+Died,Class3,"Saad, Mr. Amin",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Augustsson, Mr. Albert",male,23.0,0,0,-0.8246621250056464,n,S,0
+Died,Class3,"Allum, Mr. Owen George",male,18.0,0,0,-0.7739313848440179,n,S,0
+Survived,Class1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,1.500869353367206,E,C,2
+Died,Class3,"Pasic, Mr. Jakob",male,21.0,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Sirota, Mr. Maurice",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+Survived,Class3,"Chip, Mr. Chang",male,32.0,0,0,1.1074082260733904,n,S,0
+Survived,Class1,"Marechal, Mr. Pierre",male,29.881137667304014,0,0,0.45941638254763384,C,C,0
+Died,Class3,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,-0.8164369666035423,n,S,0
+Died,Class2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,-0.5546470102524386,n,S,0
+Survived,Class1,"Serepeca, Miss. Augusta",female,30.0,0,0,0.5022474588269157,n,C,0
+Died,Class3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,-1.004727704466733,n,C,0
+Died,Class3,"Culumovic, Mr. Jeso",male,17.0,0,0,-0.7344414641191619,n,S,0
+Died,Class3,"Abbing, Mr. Anthony",male,42.0,0,0,-0.860767370998426,n,S,0
+Died,Class3,"Sage, Mr. Douglas Bullen",male,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class3,"Markoff, Mr. Marin",male,35.0,0,0,-0.8198213298993995,n,C,0
+Died,Class2,"Harper, Rev. John",male,28.0,0,1,0.564856921883409,n,S,1
+Survived,Class1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,29.881137667304014,1,0,1.5713716416895127,C,C,1
+Died,Class3,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,0.5110846487977208,n,S,6
+Died,Class3,"Svensson, Mr. Johan",male,74.0,0,0,-0.8339414509743195,n,S,0
+Died,Class3,"Boulos, Miss. Nourelain",female,9.0,1,1,-0.19784842561560204,n,C,2
+Survived,Class1,"Lines, Miss. Mary Conover",female,16.0,0,1,0.7429728005608697,D,S,1
+Died,Class2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,0.32678595244781106,n,S,1
+Survived,Class3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,-0.6634570137633135,n,S,1
+Survived,Class1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,2.201567754337062,n,S,2
+Survived,Class1,"Daly, Mr. Peter Denis ",male,51.0,0,0,0.347611843111758,E,S,0
+Survived,Class3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,0.030108420189134306,n,C,3
+Died,Class3,"Razi, Mr. Raihed",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+Died,Class3,"Hansen, Mr. Claus Peter",male,41.0,2,0,-0.27281516871430705,n,S,2
+Died,Class2,"Giles, Mr. Frederick Edward",male,21.0,1,0,-0.4685354996475963,n,S,1
+Survived,Class1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,0.32407432224974875,D,S,0
+Died,Class3,"Sage, Miss. Dorothy Edith ""Dolly""",female,29.881137667304014,8,2,1.3187168968380085,n,S,10
+Died,Class2,"Gill, Mr. John William",male,24.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class2,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class2,"Duran y More, Miss. Asuncion",female,27.0,1,0,-0.2900470838112784,n,C,1
+Died,Class1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,0.9935882620578531,A,S,0
+Died,Class3,"van Melkebeke, Mr. Philemon",male,29.881137667304014,0,0,-0.6485971911542,n,S,0
+Survived,Class3,"Johnson, Master. Harold Theodor",male,4.0,1,1,-0.49928523128640534,n,S,2
+Died,Class3,"Balkic, Mr. Cerin",male,26.0,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,1.0340654412795942,D,S,2
+Died,Class1,"Carlsson, Mr. Frans Olof",male,33.0,0,0,-1.226534718033333,B,S,0
+Died,Class3,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,-0.6989847381534318,n,S,0
+Survived,Class2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,0.24730521809549502,n,C,1
+Survived,Class3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,-0.9007891243918247,n,C,0
+Died,Class3,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,-0.615133681994667,n,S,0
+Died,Class3,"Petroff, Mr. Nedelio",male,19.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Laleff, Mr. Kristo",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+Survived,Class1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,1.500869353367206,C,C,1
+Survived,Class2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,0.32678595244781106,n,S,1
+Died,Class3,"Markun, Mr. Johann",male,33.0,0,0,-0.8198213298993995,n,S,0
+Died,Class3,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,-0.5531483802506743,n,S,0
+Died,Class2,"Banfield, Mr. Frederick James",male,28.0,0,0,-0.5546470102524386,n,S,0
+Died,Class3,"Sutehall, Mr. Henry Jr",male,25.0,0,0,-0.9229994396222323,n,S,0
+Died,Class3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,0.43989009875069424,n,Q,5
+Died,Class2,"Montvila, Rev. Juozas",male,27.0,0,0,-0.35149644978013467,n,S,0
+Survived,Class1,"Graham, Miss. Margaret Edith",female,19.0,0,0,0.4694593127789747,B,S,0
+Died,Class3,"Johnston, Miss. Catherine Helen ""Carrie""",female,29.881137667304014,1,2,0.2243312911690128,n,S,3
+Survived,Class1,"Behr, Mr. Karl Howell",male,26.0,0,0,0.4694593127789747,C,C,0
+Died,Class3,"Dooley, Mr. Patrick",male,32.0,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Kelly, Mr. James",male,34.5,0,0,-0.8275822097789429,n,Q,0
+,Class3,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1,0,-0.9294339766592679,n,S,1
+,Class2,"Myles, Mr. Thomas Francis",male,62.0,0,0,-0.6303181324925905,n,Q,0
+,Class3,"Wirz, Mr. Albert",male,27.0,0,0,-0.7344414641191619,n,S,0
+,Class3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22.0,1,1,-0.4054401556818569,n,S,2
+,Class3,"Svensson, Mr. Johan Cervin",male,14.0,0,0,-0.676005647540591,n,S,0
+,Class3,"Connolly, Miss. Kate",female,30.0,0,0,-0.8512449746248928,n,Q,0
+,Class2,"Caldwell, Mr. Albert Francis",male,26.0,1,1,0.43559595595868594,n,S,2
+,Class3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0,0,-0.9002619024692602,n,C,0
+,Class3,"Davies, Mr. John Samuel",male,21.0,2,0,0.25348314192371696,n,S,2
+,Class3,"Ilieff, Mr. Ylio",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+,Class1,"Jones, Mr. Charles Cresson",male,46.0,0,0,0.32678595244781106,n,S,0
+,Class1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,1.4898698066091316,B,S,1
+,Class2,"Howard, Mr. Benjamin",male,63.0,1,0,0.32678595244781106,n,S,1
+,Class1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1,0,1.1882109158697278,E,S,1
+,Class2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1,0,0.3905935084971427,n,C,1
+,Class2,"Keane, Mr. Daniel",male,35.0,0,0,-0.40059387811870745,n,Q,0
+,Class3,"Assaf, Mr. Gerios",male,21.0,0,0,-0.9007891243918247,n,C,0
+,Class3,"Ilmakangas, Miss. Ida Livija",female,27.0,1,0,-0.8164369666035423,n,S,1
+,Class3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0,0,-0.9007891243918247,n,C,0
+,Class1,"Rothschild, Mr. Martin",male,55.0,1,0,1.158298757775991,n,C,1
+,Class3,"Olsen, Master. Artur Karl",male,9.0,0,1,-1.6020922236302433,n,S,1
+,Class1,"Flegenheim, Mrs. Alfred (Antoinette)",female,29.881137667304014,0,0,0.5240675389126588,n,S,0
+,Class1,"Williams, Mr. Richard Norris II",male,21.0,0,1,1.1915971632549536,n,C,1
+,Class1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1,3,2.679100898282807,B,C,4
+,Class3,"Robins, Mr. Alexander A",male,50.0,1,0,-0.24638140496411706,n,S,1
+,Class1,"Ostby, Miss. Helene Ragnhild",female,22.0,0,1,1.2014831963231893,B,C,1
+,Class3,"Daher, Mr. Shedid",male,22.5,0,0,-0.9007891243918247,n,C,0
+,Class1,"Brady, Mr. John Bertram",male,41.0,0,0,0.48598350295791776,A,S,0
+,Class3,"Samaan, Mr. Elias",male,29.881137667304014,2,0,0.14668783208519015,n,C,2
+,Class2,"Louch, Mr. Charles Alexander",male,50.0,1,0,0.32678595244781106,n,S,1
+,Class2,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,0.5182592501595479,n,S,2
+,Class3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,0.0951407209263697,n,S,3
+,Class3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,29.881137667304014,1,2,0.2243312911690128,n,S,3
+,Class1,"Mock, Mr. Philipp Edmund",male,30.0,1,0,1.129693978969988,C,C,1
+,Class3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0,0,-0.9002619024692602,n,C,0
+,Class3,"Roth, Miss. Sarah A",female,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class3,"Cacic, Miss. Manda",female,21.0,0,0,-0.7344414641191619,n,S,0
+,Class3,"Sap, Mr. Julius",male,25.0,0,0,-0.6485971911542,n,S,0
+,Class3,"Hee, Mr. Ling",male,29.881137667304014,0,0,1.1074082260733904,n,S,0
+,Class3,"Karun, Mr. Franz",male,39.0,0,1,-0.3212062650272702,n,C,1
+,Class1,"Franklin, Mr. Thomas Parham",male,29.881137667304014,0,0,0.347611843111758,D,S,0
+,Class3,"Goldsmith, Mr. Nathan",male,41.0,0,0,-0.8251521225730373,n,S,0
+,Class2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,-0.35149644978013467,n,S,0
+,Class1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,1.0340654412795942,D,S,1
+,Class3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,-0.8164369666035423,n,S,0
+,Class1,"Chevre, Mr. Paul Romaine",male,45.0,0,0,0.45941638254763384,A,C,0
+,Class3,"Shaughnessy, Mr. Patrick",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,1.4129697938836199,D,C,0
+,Class3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0,2,-0.15707667402532696,n,S,2
+,Class1,"Smith, Mr. Lucien Philip",male,24.0,1,0,1.1685071425782265,C,S,1
+,Class2,"Pulbaum, Mr. Franz",male,27.0,0,0,-0.2114461027061503,n,C,0
+,Class2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2,1,0.2051467174528504,n,S,3
+,Class1,"Fortune, Miss. Ethel Flora",female,28.0,3,2,2.6815487303213184,C,S,5
+,Class2,"Mangiavacchi, Mr. Serafino Emilio",male,29.881137667304014,0,0,-0.1768688485827093,n,C,0
+,Class3,"Rice, Master. Albert",male,10.0,4,1,0.43989009875069424,n,Q,5
+,Class3,"Cor, Mr. Bartol",male,35.0,0,0,-0.8198213298993995,n,S,0
+,Class3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,-0.8487586327422224,F,S,0
+,Class3,"Davison, Mr. Thomas Henry",male,29.881137667304014,1,0,-0.1449266532553343,n,S,1
+,Class1,"Chaudanson, Miss. Victorine",female,36.0,0,0,2.679100898282807,B,C,0
+,Class3,"Dika, Mr. Mirko",male,17.0,0,0,-0.8198213298993995,n,S,0
+,Class2,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,-0.31525624529721435,n,S,0
+,Class3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,-0.8368879290173904,n,S,0
+,Class3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,-0.8398428376242888,n,Q,0
+,Class1,"Ryerson, Master. John Borie",male,13.0,2,2,2.679100898282807,B,C,4
+,Class2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,29.881137667304014,0,0,0.1152866007230175,n,S,0
+,Class3,"Burns, Miss. Mary Delia",female,18.0,0,0,-0.8217502735340512,n,Q,0
+,Class1,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,0.8169476011522723,n,S,0
+,Class1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,0.41955054624510224,C,C,0
+,Class1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1,4,2.6815487303213184,C,S,5
+,Class3,"Mulvihill, Miss. Bertha E",female,24.0,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Minkoff, Mr. Lazar",male,21.0,0,0,-0.8198213298993995,n,S,0
+,Class3,"Nieminen, Miss. Manta Josefina",female,29.0,0,0,-0.8164369666035423,n,S,0
+,Class1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,0.3905935084971427,D,C,0
+,Class1,"Geiger, Miss. Amalie",female,35.0,0,0,2.4574368343812636,C,C,0
+,Class1,"Keeping, Mr. Edwin",male,32.5,0,0,2.4574368343812636,C,C,0
+,Class3,"Miles, Mr. Frank",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,0.31524683962438427,C,S,2
+,Class2,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Doyle, Miss. Elizabeth",female,24.0,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Boulos, Master. Akar",male,6.0,1,1,-0.19784842561560204,n,C,2
+,Class1,"Straus, Mr. Isidor",male,67.0,1,0,2.5062225955576634,C,S,1
+,Class1,"Case, Mr. Howard Brown",male,49.0,0,0,0.32678595244781106,n,S,0
+,Class3,"Demetri, Mr. Marinko",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+,Class2,"Lamb, Mr. John Joseph",male,29.881137667304014,0,0,-0.5361083419235138,n,Q,0
+,Class3,"Khalil, Mr. Betros",male,29.881137667304014,1,0,-0.24943750202424797,n,C,1
+,Class3,"Barry, Miss. Julia",female,27.0,0,0,-0.8217502735340512,n,Q,0
+,Class3,"Badman, Miss. Emily Louisa",female,18.0,0,0,-0.8020731765945291,n,S,0
+,Class3,"O'Donoghue, Ms. Bridget",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class2,"Wells, Master. Ralph Lester",male,2.0,1,1,0.2051467174528504,n,S,2
+,Class3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,-0.2871527464276865,n,S,1
+,Class3,"Pedersen, Mr. Olaf",male,29.881137667304014,0,0,-0.8339414509743195,n,S,0
+,Class1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,1.0233225594813138,B,S,3
+,Class3,"Guest, Mr. Robert",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class1,"Birnbaum, Mr. Jakob",male,25.0,0,0,0.32678595244781106,n,C,0
+,Class3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,-0.8314963717533397,n,S,0
+,Class1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,1.446599210215005,C,S,1
+,Class3,"Makinen, Mr. Kalle Edvard",male,29.0,0,0,-0.8164369666035423,n,S,0
+,Class3,"Braf, Miss. Elin Ester Maria",female,20.0,0,0,-0.8246621250056464,n,S,0
+,Class3,"Nancarrow, Mr. William Henry",male,33.0,0,0,-0.8020731765945291,n,S,0
+,Class1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1,0,1.0882987644858042,C,C,1
+,Class2,"Weisz, Mr. Leopold",male,27.0,1,0,0.32678595244781106,n,S,1
+,Class3,"Foley, Mr. William",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0,0,-0.8339414509743195,n,S,0
+,Class3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16.0,1,1,-0.7501435133500951,n,C,2
+,Class3,"Holthen, Mr. Johan Martin",male,28.0,0,0,0.18450209816056107,n,S,0
+,Class3,"Buckley, Mr. Daniel",male,21.0,0,0,-0.8285652143596596,n,Q,0
+,Class3,"Ryan, Mr. Edward",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Willer, Mr. Aaron (Abi Weller"")""",male,29.881137667304014,0,0,-0.729111182074502,n,S,0
+,Class2,"Swane, Mr. George",male,18.5,0,0,-0.35149644978013467,F,S,0
+,Class2,"Stanton, Mr. Samuel Ward",male,41.0,0,0,-0.2106412641151178,n,C,0
+,Class3,"Shine, Miss. Ellen Natalia",female,29.881137667304014,0,0,-0.8334472663953931,n,Q,0
+,Class1,"Evans, Miss. Edith Corse",female,36.0,0,0,0.5239379773626831,A,C,0
+,Class3,"Buckley, Miss. Katherine",female,18.5,0,0,-0.8934947350519489,n,Q,0
+,Class1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,2.5062225955576634,C,S,1
+,Class3,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,-0.24943750202424797,n,C,1
+,Class3,"Thomas, Mr. John",male,29.881137667304014,0,0,-1.004727704466733,n,C,0
+,Class3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,-0.10931140482994556,G,S,2
+,Class1,"Beattie, Mr. Thomson",male,36.0,0,0,1.3988439586926407,C,C,0
+,Class2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,0.32678595244781106,n,S,1
+,Class2,"Watt, Miss. Bertha J",female,12.0,0,0,-0.16628392538382433,n,S,0
+,Class3,"Kiernan, Mr. John",male,29.881137667304014,1,0,-0.8368879290173904,n,Q,1
+,Class1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,1.129693978969988,C,C,1
+,Class3,"Carver, Mr. Alfred John",male,28.0,0,0,-0.89765485839414,n,S,0
+,Class3,"Kennedy, Mr. John",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Cribb, Miss. Laura Alice",female,17.0,0,1,-0.1449266532553343,n,S,1
+,Class3,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,-0.8314963717533397,n,S,0
+,Class3,"McCoy, Miss. Alicia",female,29.881137667304014,2,0,0.2158487806183554,n,Q,2
+,Class2,"Bowenur, Mr. Solomon",male,42.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Petersen, Mr. Marius",male,24.0,0,0,-0.8020731765945291,n,S,0
+,Class3,"Spinner, Mr. Henry John",male,32.0,0,0,-0.8020731765945291,n,S,0
+,Class1,"Gracie, Col. Archibald IV",male,53.0,0,0,0.41823857504995576,C,C,0
+,Class3,"Lefebre, Mrs. Frank (Frances)",female,29.881137667304014,0,4,0.30618328088189595,n,S,4
+,Class3,"Thomas, Mr. Charles P",male,29.881137667304014,1,0,-1.004727704466733,n,C,1
+,Class3,"Dintcheff, Mr. Valtcho",male,43.0,0,0,-0.8198213298993995,n,S,0
+,Class3,"Carlsson, Mr. Carl Robert",male,24.0,0,0,-0.8246621250056464,n,S,0
+,Class3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,-0.9007891243918247,n,C,0
+,Class2,"Schmidt, Mr. August",male,26.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Drapkin, Miss. Jennie",female,23.0,0,0,-0.8020731765945291,n,S,0
+,Class3,"Goodwin, Mr. Charles Frederick",male,40.0,1,6,0.9188336495278178,n,S,7
+,Class3,"Goodwin, Miss. Jessie Allis",female,10.0,5,2,0.9188336495278178,n,S,7
+,Class1,"Daniels, Miss. Sarah",female,33.0,0,0,2.1151356465612308,n,S,0
+,Class1,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,2.679100898282807,B,C,4
+,Class2,"Beauchamp, Mr. Henry James",male,28.0,0,0,0.32678595244781106,n,S,0
+,Class1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0,0,0.347611843111758,n,S,0
+,Class3,"Vander Planke, Mr. Julius",male,31.0,3,0,-0.03611664974445992,n,S,3
+,Class1,"Hilliard, Mr. Herbert Henry",male,29.881137667304014,0,0,1.0206398000581522,E,S,0
+,Class3,"Davies, Mr. Evan",male,22.0,0,0,-0.8020731765945291,n,S,0
+,Class1,"Crafton, Mr. John Bertram",male,29.881137667304014,0,0,0.347611843111758,n,S,0
+,Class2,"Lahtinen, Rev. William",male,30.0,1,1,0.32678595244781106,n,S,2
+,Class1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0,1,1.500869353367206,C,C,1
+,Class3,"Matinoff, Mr. Nicola",male,29.881137667304014,0,0,-0.8198213298993995,n,C,0
+,Class3,"Storey, Mr. Thomas",male,60.5,0,0,,n,S,0
+,Class3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0,2,-0.413570778751151,n,S,2
+,Class3,"Asplund, Master. Filip Oscar",male,13.0,4,2,0.514678179847421,n,S,6
+,Class3,"Duquemin, Mr. Joseph",male,24.0,0,0,-0.860767370998426,n,S,0
+,Class1,"Bird, Miss. Ellen",female,29.0,0,0,2.5062225955576634,C,S,0
+,Class3,"Lundin, Miss. Olga Elida",female,23.0,0,0,-0.8246621250056464,n,S,0
+,Class1,"Borebank, Mr. John James",male,42.0,0,0,0.347611843111758,D,S,0
+,Class3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0,2,-0.29585321788302865,n,S,2
+,Class3,"Smyth, Miss. Julia",female,29.881137667304014,0,0,-0.8388608701440298,n,Q,0
+,Class3,"Touma, Master. Georges Youssef",male,7.0,1,1,-0.19784842561560204,n,C,2
+,Class2,"Wright, Miss. Marion",female,26.0,0,0,-0.31525624529721435,n,S,0
+,Class3,"Pearce, Mr. Ernest",male,29.881137667304014,0,0,-0.9294339766592679,n,S,0
+,Class2,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,0.16231564117356856,n,S,2
+,Class1,"Brandeis, Mr. Emil",male,48.0,0,0,0.9935882620578531,B,C,0
+,Class3,"Ford, Mr. Edward Watson",male,18.0,2,2,0.6057997192031446,n,S,4
+,Class1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,29.881137667304014,0,0,0.3905935084971427,n,C,0
+,Class3,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,-0.702864792261197,n,S,0
+,Class3,"Lithman, Mr. Simon",male,29.881137667304014,0,0,-0.860767370998426,n,S,0
+,Class3,"Zakarian, Mr. Ortin",male,27.0,0,0,-0.9007891243918247,n,C,0
+,Class3,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,-0.2871527464276865,n,S,1
+,Class3,"Torfa, Mr. Assad",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+,Class3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,0.514678179847421,n,S,6
+,Class2,"Brown, Miss. Edith Eileen",female,15.0,0,2,0.7326966973327512,n,S,2
+,Class2,"Sincock, Miss. Maude",female,20.0,0,0,0.6729072785387347,n,S,0
+,Class1,"Stengel, Mr. Charles Emil Henry",male,54.0,1,0,1.0882987644858042,C,C,1
+,Class2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0,3,0.7326966973327512,F,S,3
+,Class1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0,2,1.500869353367206,E,C,2
+,Class2,"McCrie, Mr. James Matthew",male,30.0,0,0,-0.35149644978013467,n,S,0
+,Class1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,1.500869353367206,E,C,2
+,Class1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,1.0445373827684135,D,S,1
+,Class3,"Lane, Mr. Patrick",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,2.6191479456923923,B,C,2
+,Class2,"Maybery, Mr. Frank Hubert",male,40.0,0,0,-0.15098379585968283,n,S,0
+,Class2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,0.1152866007230175,n,S,1
+,Class3,"Davies, Mr. Joseph",male,17.0,2,0,-0.8020731765945291,n,S,2
+,Class3,"Sage, Miss. Ada",female,29.881137667304014,8,2,1.3187168968380085,n,S,10
+,Class2,"Veal, Mr. James",male,40.0,0,0,-0.35149644978013467,n,S,0
+,Class2,"Angle, Mr. William A",male,34.0,1,0,0.32678595244781106,n,S,1
+,Class1,"Salomon, Mr. Abraham L",male,29.881137667304014,0,0,0.32678595244781106,n,S,0
+,Class3,"van Billiard, Master. Walter John",male,11.5,1,1,-0.24638140496411706,n,S,2
+,Class2,"Lingane, Mr. John",male,61.0,0,0,-0.40059387811870745,n,Q,0
+,Class2,"Drew, Master. Marshall Brines",male,8.0,0,2,0.5495567923592675,n,S,2
+,Class3,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0,0,-0.8246621250056464,n,S,0
+,Class1,"Spedden, Master. Robert Douglas",male,6.0,0,2,1.9927345230377613,E,C,2
+,Class3,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,-0.8339414509743195,n,S,0
+,Class2,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,-0.5546470102524386,n,S,0
+,Class3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,29.881137667304014,0,0,-0.7949655101802209,n,S,0
+,Class3,"Murphy, Miss. Nora",female,29.881137667304014,0,0,-0.18181414065104826,n,Q,0
+,Class3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,-0.2530658286467767,n,S,2
+,Class1,"Astor, Col. John Jacob",male,47.0,1,0,2.5325207655977877,C,C,1
+,Class2,"Quick, Miss. Winifred Vera",female,8.0,1,1,0.32678595244781106,n,S,2
+,Class2,"Andrew, Mr. Frank Thomas",male,25.0,0,0,-0.5546470102524386,n,S,0
+,Class1,"Omont, Mr. Alfred Fernand",male,29.881137667304014,0,0,0.31685851218095873,n,C,0
+,Class3,"McGowan, Miss. Katherine",female,35.0,0,0,-0.8368879290173904,n,Q,0
+,Class2,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,-0.5546470102524386,n,S,0
+,Class1,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,0.3905935084971427,A,C,0
+,Class3,"Delalic, Mr. Redjo",male,25.0,0,0,-0.8198213298993995,n,S,0
+,Class3,"Andersen, Mr. Albert Karvin",male,32.0,0,0,0.18450209816056107,n,S,0
+,Class3,"Finoli, Mr. Luigi",male,29.881137667304014,0,0,-0.9229994396222323,n,S,0
+,Class2,"Deacon, Mr. Percy William",male,17.0,0,0,1.3749779275643326,n,S,0
+,Class2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,0.32678595244781106,n,S,1
+,Class3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,-0.8339414509743195,n,S,6
+,Class1,"Head, Mr. Christopher",male,42.0,0,0,0.8193244488149034,B,S,0
+,Class3,"Mahon, Miss. Bridget Delia",female,29.881137667304014,0,0,-0.8217502735340512,n,Q,0
+,Class1,"Wick, Mr. George Dennick",male,57.0,1,1,2.201567754337062,n,S,2
+,Class1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,2.4574368343812636,C,C,2
+,Class3,"Thomson, Mr. Alexander Morrison",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class2,"Duran y More, Miss. Florentina",female,30.0,1,0,-0.2900470838112784,n,C,1
+,Class3,"Reynolds, Mr. Harold J",male,21.0,0,0,-0.8020731765945291,n,S,0
+,Class2,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,-0.5546470102524386,F,S,0
+,Class3,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,-0.8314963717533397,n,S,0
+,Class1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,0.3806574391679009,n,C,0
+,Class3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,29.881137667304014,0,2,-0.19784842561560204,n,C,2
+,Class3,"Asplund, Mr. Johan Charles",male,23.0,0,0,-0.8314963717533397,n,S,0
+,Class3,"McNeill, Miss. Bridget",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Everett, Mr. Thomas James",male,40.5,0,0,-0.20715872187914103,n,S,0
+,Class2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,-0.35149644978013467,n,S,0
+,Class2,"Sweet, Mr. George Frederick",male,14.0,0,0,1.2498672948351348,n,S,0
+,Class1,"Willard, Miss. Constance",female,21.0,0,0,0.347611843111758,n,S,0
+,Class3,"Wiklund, Mr. Karl Johan",male,21.0,1,0,-0.9966639758395776,n,S,1
+,Class3,"Linehan, Mr. Michael",male,29.881137667304014,0,0,-0.8217502735340512,n,Q,0
+,Class1,"Cumings, Mr. John Bradley",male,39.0,1,0,1.3437829824661556,C,C,1
+,Class3,"Vendel, Mr. Olof Edvin",male,20.0,0,0,-0.8246621250056464,n,S,0
+,Class1,"Warren, Mr. Frank Manley",male,64.0,1,0,1.398956381084062,D,C,1
+,Class3,"Baccos, Mr. Raffull",male,20.0,0,0,-0.9007891243918247,n,C,0
+,Class2,"Hiltunen, Miss. Marta",female,18.0,1,1,-0.35149644978013467,n,S,2
+,Class1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1,0,1.7529543153936602,C,C,1
+,Class1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,0.3905935084971427,n,C,0
+,Class2,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,0.4694593127789747,n,S,2
+,Class1,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,1.9927345230377613,E,C,2
+,Class3,"Hyman, Mr. Abraham",male,29.881137667304014,0,0,-0.8207853513585119,n,S,0
+,Class3,"Johnston, Master. William Arthur Willie""""",male,29.881137667304014,1,2,0.2243312911690128,n,S,3
+,Class1,"Kenyon, Mr. Frederick R",male,41.0,1,0,1.0206398000581522,D,S,1
+,Class2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,0.1152866007230175,n,S,0
+,Class2,"Drew, Mr. James Vivian",male,42.0,1,1,0.5495567923592675,n,S,2
+,Class2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,0.32678595244781106,n,S,1
+,Class3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,29.881137667304014,1,0,-0.24943750202424797,n,C,1
+,Class2,"West, Miss. Barbara J",female,0.92,1,2,0.3916429459964887,n,S,3
+,Class3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,-0.8164369666035423,n,S,0
+,Class1,"Clark, Mr. Walter Miller",male,27.0,1,0,2.009961412261435,C,C,1
+,Class3,"Salander, Mr. Karl Johan",male,24.0,0,0,-0.6659545720629302,n,S,0
+,Class3,"Wenzel, Mr. Linhart",male,32.5,0,0,-0.6485971911542,n,S,0
+,Class3,"MacKay, Mr. George William",male,29.881137667304014,0,0,-0.860767370998426,n,S,0
+,Class3,"Mahon, Mr. John",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Niklasson, Mr. Samuel",male,28.0,0,0,-0.8020731765945291,n,S,0
+,Class2,"Bentham, Miss. Lilian W",female,19.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,-0.8339414509743195,n,S,0
+,Class3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,-0.06925553101518239,n,S,1
+,Class3,"Nilsson, Mr. August Ferdinand",male,21.0,0,0,-0.8246621250056464,n,S,0
+,Class2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0,2,0.2051467174528504,n,S,2
+,Class3,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,-0.413570778751151,n,S,2
+,Class2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,-0.3710441599373804,n,C,0
+,Class3,"Lyntakoff, Mr. Stanko",male,29.881137667304014,0,0,-0.8198213298993995,n,S,0
+,Class1,"Chisholm, Mr. Roderick Robert Crispin",male,29.881137667304014,0,0,-3.0769561298885426,n,S,0
+,Class3,"Warren, Mr. Charles William",male,29.881137667304014,0,0,-0.860767370998426,n,S,0
+,Class3,"Howard, Miss. May Elizabeth",female,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class3,"Pokrnic, Mr. Mate",male,17.0,0,0,-0.7344414641191619,n,S,0
+,Class1,"McCaffry, Mr. Thomas Francis",male,46.0,0,0,1.3988439586926407,C,C,0
+,Class3,"Fox, Mr. Patrick",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1,0,2.009961412261435,C,C,1
+,Class3,"Lennon, Miss. Mary",female,29.881137667304014,1,0,-0.18181414065104826,n,Q,1
+,Class3,"Saade, Mr. Jean Nassr",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+,Class2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1,0,0.32678595244781106,n,S,1
+,Class2,"Parker, Mr. Clifford Richard",male,28.0,0,0,-0.5546470102524386,n,S,0
+,Class2,"Faunthorpe, Mr. Harry",male,40.0,1,0,0.32678595244781106,n,S,1
+,Class2,"Ware, Mr. John James",male,30.0,1,0,0.1152866007230175,n,S,1
+,Class2,"Oxenham, Mr. Percy Thomas",male,22.0,0,0,-0.5546470102524386,n,S,0
+,Class3,"Oreskovic, Miss. Jelka",female,23.0,0,0,-0.7344414641191619,n,S,0
+,Class3,"Peacock, Master. Alfred Edward",male,0.75,1,1,-0.29585321788302865,n,S,2
+,Class3,"Fleming, Miss. Honora",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Touma, Miss. Maria Youssef",female,9.0,1,1,-0.19784842561560204,n,C,2
+,Class3,"Rosblom, Miss. Salli Helena",female,2.0,1,1,0.07764135058485108,n,S,2
+,Class3,"Dennis, Mr. William",male,36.0,0,0,-0.89765485839414,n,S,0
+,Class3,"Franklin, Mr. Charles (Charles Fardon)",male,29.881137667304014,0,0,-0.89765485839414,n,S,0
+,Class1,"Snyder, Mr. John Pillsbury",male,24.0,1,0,1.4898698066091316,B,S,1
+,Class3,"Mardirosian, Mr. Sarkis",male,29.881137667304014,0,0,-0.9002619024692602,F,C,0
+,Class3,"Ford, Mr. Arthur",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class1,"Rheims, Mr. George Alexander Lucien",male,29.881137667304014,0,0,0.748072760819175,n,S,0
+,Class3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,-0.9359088558847705,n,Q,0
+,Class3,"Nasr, Mr. Mustafa",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+,Class1,"Dodge, Dr. Washington",male,53.0,1,1,1.4847920422042842,A,S,2
+,Class3,"Wittevrongel, Mr. Camille",male,36.0,0,0,-0.6485971911542,n,S,0
+,Class3,"Angheloff, Mr. Minko",male,26.0,0,0,-0.8198213298993995,n,S,0
+,Class2,"Laroche, Miss. Louise",female,1.0,1,2,0.7972289104862824,n,C,3
+,Class3,"Samaan, Mr. Hanna",male,29.881137667304014,2,0,0.14668783208519015,n,C,2
+,Class1,"Loring, Mr. Joseph Holland",male,30.0,0,0,0.8881992891480007,n,S,0
+,Class3,"Johansson, Mr. Nils",male,29.0,0,0,-0.8246621250056464,n,S,0
+,Class3,"Olsson, Mr. Oscar Wilhelm",male,32.0,0,0,-0.8339414509743195,n,S,0
+,Class2,"Malachard, Mr. Noel",male,29.881137667304014,0,0,-0.2106412641151178,D,C,0
+,Class2,"Phillips, Mr. Escott Robert",male,43.0,0,1,0.1152866007230175,n,S,1
+,Class3,"Pokrnic, Mr. Tome",male,24.0,0,0,-0.7344414641191619,n,S,0
+,Class3,"McCarthy, Miss. Catherine Katie""""",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1,1,0.347611843111758,B,S,2
+,Class1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,2.1151356465612308,C,S,3
+,Class3,"Aks, Master. Philip Frank",male,0.83,0,1,-0.6634570137633135,n,S,1
+,Class1,"Hays, Mr. Charles Melville",male,55.0,1,1,1.620564197070036,B,S,2
+,Class3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1,0,-0.27281516871430705,n,S,1
+,Class3,"Cacic, Mr. Jego Grga",male,18.0,0,0,-0.7344414641191619,n,S,0
+,Class3,"Vartanian, Mr. David",male,22.0,0,0,-0.9007891243918247,n,C,0
+,Class3,"Sadowitz, Mr. Harry",male,29.881137667304014,0,0,-0.857752070013887,n,S,0
+,Class3,"Carr, Miss. Jeannie",female,37.0,0,0,-0.8368879290173904,n,Q,0
+,Class1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,2.0013362696247716,C,C,0
+,Class3,"Hagardon, Miss. Kate",female,17.0,0,0,-0.8388608701440298,n,Q,0
+,Class1,"Spencer, Mr. William Augustus",male,57.0,1,0,2.0805148725979374,B,C,1
+,Class2,"Rogers, Mr. Reginald Harry",male,19.0,0,0,-0.5546470102524386,n,S,0
+,Class3,"Jonsson, Mr. Nils Hilding",male,27.0,0,0,-0.8246621250056464,n,S,0
+,Class2,"Jefferys, Mr. Ernest Wilfred",male,22.0,2,0,0.5182592501595479,n,S,2
+,Class3,"Andersson, Mr. Johan Samuel",male,26.0,0,0,-0.8339414509743195,n,S,0
+,Class3,"Krekorian, Mr. Neshan",male,25.0,0,0,-0.9002619024692602,F,C,0
+,Class2,"Nesson, Mr. Israel",male,26.0,0,0,-0.35149644978013467,F,S,0
+,Class1,"Rowe, Mr. Alfred G",male,33.0,0,0,0.347611843111758,n,S,0
+,Class1,"Kreuchen, Miss. Emilie",female,39.0,0,0,2.4566467900260127,n,S,0
+,Class3,"Assam, Mr. Ali",male,23.0,0,0,-0.9229994396222323,n,S,0
+,Class2,"Becker, Miss. Ruth Elizabeth",female,12.0,2,1,0.7326966973327512,F,S,3
+,Class1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46.0,0,0,1.4511160427664747,n,C,0
+,Class2,"Clarke, Mr. Charles Valentine",male,29.0,1,0,0.32678595244781106,n,S,1
+,Class2,"Enander, Mr. Ingvar",male,21.0,0,0,-0.35149644978013467,n,S,0
+,Class2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,0.6729072785387347,n,S,2
+,Class1,"Dulles, Mr. William Crothers",male,39.0,0,0,0.45941638254763384,A,C,0
+,Class3,"Thomas, Mr. Tannous",male,29.881137667304014,0,0,-0.9007891243918247,n,C,0
+,Class3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1,1,-0.16679579793493268,n,C,2
+,Class3,"Cor, Mr. Ivan",male,27.0,0,0,-0.8198213298993995,n,S,0
+,Class1,"Maguire, Mr. John Edward",male,30.0,0,0,0.32678595244781106,C,S,0
+,Class2,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Elias, Mr. Joseph",male,39.0,0,2,-0.9002619024692602,n,C,2
+,Class2,"Denbury, Mr. Herbert",male,25.0,0,0,0.5182592501595479,n,S,0
+,Class3,"Betros, Master. Seman",male,29.881137667304014,0,0,-0.9002619024692602,n,C,0
+,Class2,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,-0.5546470102524386,n,S,0
+,Class3,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,-0.8572463620856131,n,S,0
+,Class3,"Sage, Mr. John George",male,29.881137667304014,1,9,1.3187168968380085,n,S,10
+,Class1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,3.3682879451101964,B,C,1
+,Class3,"van Billiard, Master. James William",male,29.881137667304014,1,1,-0.24638140496411706,n,S,2
+,Class3,"Abelseth, Miss. Karen Marie",female,16.0,0,0,-0.8487586327422224,n,S,0
+,Class2,"Botsford, Mr. William Hull",male,26.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,-0.9002619024692602,n,C,0
+,Class2,"Giles, Mr. Ralph",male,24.0,0,0,-0.31525624529721435,n,S,0
+,Class2,"Walcroft, Miss. Nellie",female,31.0,0,0,0.1152866007230175,n,S,0
+,Class1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0,1,1.223853781920326,D,C,1
+,Class2,"Stokes, Mr. Philip Joseph",male,25.0,0,0,-0.5546470102524386,n,S,0
+,Class2,"Dibden, Mr. William",male,18.0,0,0,1.3749779275643326,n,S,0
+,Class2,"Herman, Mr. Samuel",male,49.0,1,2,1.2498672948351348,n,S,3
+,Class3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,0.0951407209263697,n,S,3
+,Class1,"Julian, Mr. Henry Forbes",male,50.0,0,0,0.32678595244781106,E,S,0
+,Class1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,1.0131242400690605,C,S,2
+,Class3,"Lockyer, Mr. Edward",male,29.881137667304014,0,0,-0.8217502735340512,n,S,0
+,Class3,"O'Keefe, Mr. Patrick",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,-0.1786893580748073,n,S,1
+,Class3,"Sage, Master. William Henry",male,14.5,8,2,1.3187168968380085,n,S,10
+,Class2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,0.6798382066222695,n,C,2
+,Class2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,0.1152866007230175,n,S,0
+,Class3,"Strilic, Mr. Ivan",male,27.0,0,0,-0.7344414641191619,n,S,0
+,Class1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,1.0882987644858042,E,C,1
+,Class3,"Sage, Mrs. John (Annie Bullen)",female,29.881137667304014,1,9,1.3187168968380085,n,S,10
+,Class3,"Caram, Mr. Joseph",male,29.881137667304014,1,0,-0.24916355242946245,n,C,1
+,Class3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0,0,0.7502960982840425,n,S,0
+,Class1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,1.158298757775991,n,C,1
+,Class2,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,-0.2900470838112784,n,C,0
+,Class2,"Giles, Mr. Edgar",male,21.0,1,0,-0.4685354996475963,n,S,1
+,Class1,"Wilson, Miss. Helen Alice",female,31.0,0,0,1.9927345230377613,E,C,0
+,Class1,"Ismay, Mr. Joseph Bruce",male,49.0,0,0,-3.0769561298885426,B,S,0
+,Class2,"Harbeck, Mr. William H",male,44.0,0,0,-0.35149644978013467,n,S,0
+,Class1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1,1,1.4847920422042842,A,S,2
+,Class1,"Bowen, Miss. Grace Scott",female,45.0,0,0,2.679100898282807,n,C,0
+,Class3,"Kink, Miss. Maria",female,22.0,2,0,-0.7344414641191619,n,S,2
+,Class2,"Cotterill, Mr. Henry Harry""""",male,21.0,0,0,-0.4685354996475963,n,S,0
+,Class1,"Hipkins, Mr. William Edward",male,55.0,0,0,0.9835968982524349,C,S,0
+,Class3,"Asplund, Master. Carl Edgar",male,5.0,4,2,0.514678179847421,n,S,6
+,Class3,"O'Connor, Mr. Patrick",male,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Foley, Mr. Joseph",male,26.0,0,0,-0.8217502735340512,n,Q,0
+,Class3,"Risien, Mrs. Samuel (Emma)",female,29.881137667304014,0,0,-0.24638140496411706,n,S,0
+,Class3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,-0.1449266532553343,n,S,1
+,Class2,"Wheeler, Mr. Edwin Frederick""""",male,29.881137667304014,0,0,-0.36075875270470786,n,S,0
+,Class2,"Herman, Miss. Kate",female,24.0,1,2,1.2498672948351348,n,S,3
+,Class3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,-0.8339414509743195,n,S,0
+,Class2,"Ashby, Mr. John",male,57.0,0,0,-0.35149644978013467,n,S,0
+,Class3,"Canavan, Mr. Patrick",male,21.0,0,0,-0.8368879290173904,n,Q,0
+,Class3,"Palsson, Master. Paul Folke",male,6.0,3,1,0.11880131717345953,n,S,4
+,Class1,"Payne, Mr. Vivian Ponsonby",male,23.0,0,0,1.620564197070036,B,S,0
+,Class1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0,1,0.7429728005608697,D,S,1
+,Class3,"Abbott, Master. Eugene Joseph",male,13.0,0,2,0.07946544264615271,n,S,2
+,Class2,"Gilbert, Mr. William",male,47.0,0,0,-0.5546470102524386,n,S,0
+,Class3,"Kink-Heilmann, Mr. Anton",male,29.0,3,1,0.16231564117356856,n,S,4
+,Class1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1,0,1.1685071425782265,C,S,1
+,Class3,"Colbert, Mr. Patrick",male,24.0,0,0,-0.89765485839414,n,Q,0
+,Class1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1,1,1.4511160427664747,B,C,2
+,Class3,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0,0,-0.8339414509743195,n,S,0
+,Class3,"Conlon, Mr. Thomas Henry",male,31.0,0,0,-0.8388608701440298,n,Q,0
+,Class1,"Bonnell, Miss. Caroline",female,30.0,0,0,2.201567754337062,C,S,0
+,Class2,"Gale, Mr. Harry",male,38.0,1,0,0.1152866007230175,n,S,1
+,Class1,"Gibson, Miss. Dorothy Winifred",female,22.0,0,1,1.158298757775991,n,C,1
+,Class1,"Carrau, Mr. Jose Pedro",male,17.0,0,0,0.9231367384765021,n,S,0
+,Class1,"Frauenthal, Mr. Isaac Gerald",male,43.0,1,0,0.3905935084971427,D,C,1
+,Class2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0,0,-0.28975520018675943,D,C,0
+,Class2,"Ware, Mr. William Jeffery",male,23.0,1,0,-0.5546470102524386,n,S,1
+,Class1,"Widener, Mr. George Dunton",male,50.0,1,1,2.4574368343812636,C,C,2
+,Class3,"Riordan, Miss. Johanna Hannah""""",female,29.881137667304014,0,0,-0.8403400928339925,n,Q,0
+,Class3,"Peacock, Miss. Treasteall",female,3.0,1,1,-0.29585321788302865,n,S,2
+,Class3,"Naughton, Miss. Hannah",female,29.881137667304014,0,0,-0.8368879290173904,n,Q,0
+,Class1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,1.5815882562759367,C,Q,1
+,Class3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,-0.8339414509743195,n,S,0
+,Class3,"Spector, Mr. Woolf",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class1,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,1.7764779932918948,C,C,0
+,Class3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,-0.89765485839414,n,S,0
+,Class3,"Ware, Mr. Frederick",male,29.881137667304014,0,0,-0.8020731765945291,n,S,0
+,Class3,"Peter, Master. Michael J",male,29.881137667304014,1,1,0.17715797097251948,n,C,2
